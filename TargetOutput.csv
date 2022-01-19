@@ -1,0 +1,1735 @@
+Key,ActualSales,ActualProfit,ActualDiscount,Order Date,Category,SalesTarget
+2011-01-01Office Supplies,45,-26,1,2011-01-01,Office Supplies,10000
+2011-01-03Furniture,854,290,0,2011-01-03,Furniture,10100
+2011-01-04Office Supplies,184,-2,2,2011-01-04,Office Supplies,20700
+2011-01-05Office Supplies,297,98,0,2011-01-05,Office Supplies,10500
+2011-01-07Office Supplies,749,145,0,2011-01-07,Office Supplies,10600
+2011-01-08Office Supplies,116,-56,1,2011-01-08,Office Supplies,10800
+2011-01-11Furniture,1652,-328,1,2011-01-11,Furniture,22200
+2011-01-11Office Supplies,317,74,0,2011-01-11,Office Supplies,22100
+2011-01-12Office Supplies,308,49,1,2011-01-12,Office Supplies,23000
+2011-01-12Furniture,842,235,0,2011-01-12,Furniture,11500
+2011-01-13Office Supplies,310,-198,5,2011-01-13,Office Supplies,11900
+2011-01-14Office Supplies,224,103,0,2011-01-14,Office Supplies,12000
+2011-01-15Office Supplies,495,37,0,2011-01-15,Office Supplies,12100
+2011-01-17Office Supplies,17,-8,1,2011-01-17,Office Supplies,12300
+2011-01-18Office Supplies,134,22,1,2011-01-18,Office Supplies,12400
+2011-01-19Office Supplies,241,73,0,2011-01-19,Office Supplies,12800
+2011-01-20Office Supplies,58,8,0,2011-01-20,Office Supplies,12900
+2011-01-21Technology,495,233,0,2011-01-21,Technology,13000
+2011-01-22Office Supplies,1621,194,0,2011-01-22,Office Supplies,26400
+2011-01-24Office Supplies,178,18,0,2011-01-24,Office Supplies,26900
+2011-01-25Office Supplies,311,63,0,2011-01-25,Office Supplies,27400
+2011-01-26Technology,658,-199,1,2011-01-26,Technology,27900
+2011-01-26Office Supplies,97,35,0,2011-01-26,Office Supplies,14100
+2011-01-28Office Supplies,28,-1,0,2011-01-28,Office Supplies,14300
+2011-02-01Office Supplies,111,35,0,2011-02-01,Office Supplies,28900
+2011-02-02Technology,2481,-92,5,2011-02-02,Technology,14600
+2011-02-02Office Supplies,562,-1,2,2011-02-02,Office Supplies,90500
+2011-02-03Office Supplies,91,-62,1,2011-02-03,Office Supplies,15500
+2011-02-07Office Supplies,193,21,0,2011-02-07,Office Supplies,15900
+2011-02-08Office Supplies,110,22,0,2011-02-08,Office Supplies,5000
+2011-02-09Office Supplies,645,49,2,2011-02-09,Office Supplies,5000
+2011-02-09Furniture,635,105,0,2011-02-09,Furniture,10000
+2011-02-10Furniture,1602,470,0,2011-02-10,Furniture,10000
+2011-02-10Office Supplies,329,-198,2,2011-02-10,Office Supplies,22000
+2011-02-14Office Supplies,35,3,0,2011-02-14,Office Supplies,12000
+2011-02-15Furniture,2003,-1140,2,2011-02-15,Furniture,14000
+2011-02-16Office Supplies,367,32,0,2011-02-16,Office Supplies,14000
+2011-02-18Office Supplies,176,53,0,2011-02-18,Office Supplies,10000
+2011-02-21Technology,30,-5,0,2011-02-21,Technology,12000
+2011-02-22Office Supplies,137,30,0,2011-02-22,Office Supplies,26000
+2011-02-24Office Supplies,309,77,0,2011-02-24,Office Supplies,16000
+2011-02-26Technology,120,-41,1,2011-02-26,Technology,16000
+2011-03-01Office Supplies,1151,219,0,2011-03-01,Office Supplies,26000
+2011-03-01Technology,198,8,0,2011-03-01,Technology,26000
+2011-03-03Office Supplies,58,29,0,2011-03-03,Office Supplies,10000
+2011-03-09Technology,126,59,0,2011-03-09,Technology,18000
+2011-03-10Technology,520,203,0,2011-03-10,Technology,20000
+2011-03-10Furniture,74,-18,1,2011-03-10,Furniture,20000
+2011-03-11Office Supplies,301,42,0,2011-03-11,Office Supplies,12000
+2011-03-12Office Supplies,635,155,0,2011-03-12,Office Supplies,28000
+2011-03-14Office Supplies,3550,1470,0,2011-03-14,Office Supplies,34000
+2011-03-14Technology,220,49,0,2011-03-14,Technology,18000
+2011-03-15Office Supplies,112,29,0,2011-03-15,Office Supplies,18000
+2011-03-16Office Supplies,83,10,0,2011-03-16,Office Supplies,26000
+2011-03-17Office Supplies,102,19,0,2011-03-17,Office Supplies,26000
+2011-03-18Office Supplies,235,33,0,2011-03-18,Office Supplies,9000
+2011-03-21Office Supplies,228,52,0,2011-03-21,Office Supplies,9000
+2011-03-21Furniture,420,29,0,2011-03-21,Furniture,9000
+2011-03-22Office Supplies,130,43,0,2011-03-22,Office Supplies,9000
+2011-03-23Office Supplies,193,8,0,2011-03-23,Office Supplies,9000
+2011-03-24Office Supplies,835,123,0,2011-03-24,Office Supplies,9000
+2011-03-25Office Supplies,287,56,3,2011-03-25,Office Supplies,9000
+2011-03-25Technology,84,-55,1,2011-03-25,Technology,16000
+2011-03-26Office Supplies,643,124,0,2011-03-26,Office Supplies,16000
+2011-03-28Office Supplies,154,-35,2,2011-03-28,Office Supplies,16000
+2011-03-29Furniture,170,27,0,2011-03-29,Furniture,16000
+2011-03-30Furniture,729,-57,0,2011-03-30,Furniture,16000
+2011-03-31Furniture,2774,439,1,2011-03-31,Furniture,16000
+2011-03-31Office Supplies,478,47,0,2011-03-31,Office Supplies,16000
+2011-04-01Office Supplies,454,101,0,2011-04-01,Office Supplies,16000
+2011-04-01Technology,620,-240,0,2011-04-01,Technology,20000
+2011-04-04Office Supplies,169,63,0,2011-04-04,Office Supplies,20000
+2011-04-06Office Supplies,646,252,0,2011-04-06,Office Supplies,20000
+2011-04-07Office Supplies,1332,471,0,2011-04-07,Office Supplies,20000
+2011-04-09Office Supplies,222,-132,2,2011-04-09,Office Supplies,20000
+2011-04-11Office Supplies,108,33,0,2011-04-11,Office Supplies,20000
+2011-04-11Technology,1385,204,0,2011-04-11,Technology,20000
+2011-04-12Office Supplies,196,49,0,2011-04-12,Office Supplies,23000
+2011-04-12Furniture,66,19,0,2011-04-12,Furniture,23000
+2011-04-14Office Supplies,745,83,0,2011-04-14,Office Supplies,23000
+2011-04-15Office Supplies,36,12,0,2011-04-15,Office Supplies,23000
+2011-04-18Technology,2329,12,0,2011-04-18,Technology,23000
+2011-04-19Office Supplies,96,14,0,2011-04-19,Office Supplies,23000
+2011-04-20Technology,931,229,1,2011-04-20,Technology,23001
+2011-04-20Office Supplies,638,145,0,2011-04-20,Office Supplies,23002
+2011-04-21Office Supplies,39,10,0,2011-04-21,Office Supplies,23003
+2011-04-22Technology,645,76,0,2011-04-22,Technology,23004
+2011-04-25Office Supplies,39,-19,1,2011-04-25,Office Supplies,23005
+2011-04-26Office Supplies,335,130,0,2011-04-26,Office Supplies,69021
+2011-04-26Technology,684,-24,0,2011-04-26,Technology,23009
+2011-04-27Furniture,3240,824,0,2011-04-27,Furniture,46021
+2011-04-27Office Supplies,910,161,1,2011-04-27,Office Supplies,46025
+2011-04-28Office Supplies,16,0,0,2011-04-28,Office Supplies,23014
+2011-04-29Office Supplies,546,136,0,2011-04-29,Office Supplies,138105
+2011-05-02Technology,162,73,0,2011-05-02,Technology,46043
+2011-05-04Office Supplies,246,72,0,2011-05-04,Office Supplies,115130
+2011-05-05Office Supplies,375,85,0,2011-05-05,Office Supplies,46059
+2011-05-06Office Supplies,34,0,0,2011-05-06,Office Supplies,23031
+2011-05-07Office Supplies,253,-28,1,2011-05-07,Office Supplies,46065
+2011-05-09Office Supplies,26,-8,1,2011-05-09,Office Supplies,23035
+2011-05-10Furniture,92,8,0,2011-05-10,Furniture,23036
+2011-05-10Office Supplies,944,-251,3,2011-05-10,Office Supplies,69114
+2011-05-11Office Supplies,403,-212,6,2011-05-11,Office Supplies,23040
+2011-05-12Office Supplies,53,-18,1,2011-05-12,Office Supplies,46083
+2011-05-13Office Supplies,248,88,0,2011-05-13,Office Supplies,46087
+2011-05-17Office Supplies,97,22,0,2011-05-17,Office Supplies,23047
+2011-05-18Office Supplies,1663,252,0,2011-05-18,Office Supplies,46098
+2011-05-18Furniture,1146,133,0,2011-05-18,Furniture,23051
+2011-05-19Office Supplies,849,145,0,2011-05-19,Office Supplies,23052
+2011-05-21Office Supplies,87,-3,2,2011-05-21,Office Supplies,46109
+2011-05-26Office Supplies,3649,256,0,2011-05-26,Office Supplies,69174
+2011-05-27Office Supplies,655,14,1,2011-05-27,Office Supplies,46122
+2011-05-31Office Supplies,102,-25,0,2011-05-31,Office Supplies,23065
+2011-06-01Office Supplies,888,271,2,2011-06-01,Office Supplies,115344
+2011-06-01Technology,1468,313,0,2011-06-01,Technology,23067
+2011-06-02Office Supplies,2431,286,3,2011-06-02,Office Supplies,46146
+2011-06-02Furniture,1354,-37,0,2011-06-02,Furniture,23073
+2011-06-02Technology,1073,-532,2,2011-06-02,Technology,23075
+2011-06-03Office Supplies,452,81,0,2011-06-03,Office Supplies,23076
+2011-06-04Office Supplies,123,10,0,2011-06-04,Office Supplies,23078
+2011-06-06Technology,578,129,0,2011-06-06,Technology,46159
+2011-06-06Furniture,1266,323,0,2011-06-06,Furniture,46163
+2011-06-06Office Supplies,1345,257,1,2011-06-06,Office Supplies,69252
+2011-06-07Furniture,777,199,0,2011-06-07,Furniture,46177
+2011-06-07Office Supplies,1876,154,0,2011-06-07,Office Supplies,92360
+2011-06-07Technology,935,74,0,2011-06-07,Technology,46179
+2011-06-08Office Supplies,322,109,0,2011-06-08,Office Supplies,92382
+2011-06-09Office Supplies,921,264,1,2011-06-09,Office Supplies,115500
+2011-06-10Office Supplies,1479,-106,0,2011-06-10,Office Supplies,69312
+2011-06-11Office Supplies,18,6,0,2011-06-11,Office Supplies,46213
+2011-06-13Office Supplies,944,102,0,2011-06-13,Office Supplies,69329
+2011-06-13Furniture,702,221,0,2011-06-13,Furniture,23109
+2011-06-14Technology,636,273,0,2011-06-14,Technology,69339
+2011-06-15Technology,1087,-238,1,2011-06-15,Technology,23115
+2011-06-15Office Supplies,133,-79,2,2011-06-15,Office Supplies,23117
+2011-06-16Office Supplies,723,70,0,2011-06-16,Office Supplies,115600
+2011-06-17Technology,524,-25,0,2011-06-17,Technology,23123
+2011-06-17Office Supplies,533,88,1,2011-06-17,Office Supplies,92502
+2011-06-18Office Supplies,307,62,0,2011-06-18,Office Supplies,69387
+2011-06-20Office Supplies,136,24,0,2011-06-20,Office Supplies,46264
+2011-06-20Technology,420,-2,0,2011-06-20,Technology,23132
+2011-06-21Office Supplies,32,7,0,2011-06-21,Office Supplies,23134
+2011-06-22Office Supplies,1917,496,1,2011-06-22,Office Supplies,115688
+2011-06-22Technology,2002,521,0,2011-06-22,Technology,23137
+2011-06-24Office Supplies,603,-12,1,2011-06-24,Office Supplies,69426
+2011-06-27Office Supplies,375,113,0,2011-06-27,Office Supplies,115749
+2011-06-27Technology,1615,28,0,2011-06-27,Technology,69447
+2011-06-28Furniture,1330,265,0,2011-06-28,Furniture,92626
+2011-06-28Office Supplies,351,67,0,2011-06-28,Office Supplies,46313
+2011-06-29Office Supplies,641,140,0,2011-06-29,Office Supplies,46321
+2011-07-01Office Supplies,34,14,0,2011-07-01,Office Supplies,23162
+2011-07-02Office Supplies,35,-22,1,2011-07-02,Office Supplies,23163
+2011-07-06Office Supplies,184,72,0,2011-07-06,Office Supplies,69495
+2011-07-08Office Supplies,477,99,0,2011-07-08,Office Supplies,46337
+2011-07-09Office Supplies,1121,436,0,2011-07-09,Office Supplies,46341
+2011-07-11Office Supplies,140,6,0,2011-07-11,Office Supplies,23172
+2011-07-12Office Supplies,333,-14,2,2011-07-12,Office Supplies,69523
+2011-07-12Technology,496,76,0,2011-07-12,Technology,23175
+2011-07-14Technology,1694,-104,0,2011-07-14,Technology,23178
+2011-07-16Technology,524,5,0,2011-07-16,Technology,23180
+2011-07-18Technology,1207,36,0,2011-07-18,Technology,23182
+2011-07-20Furniture,106,-23,0,2011-07-20,Furniture,23184
+2011-07-21Office Supplies,180,-88,2,2011-07-21,Office Supplies,23185
+2011-07-24Office Supplies,63,-38,2,2011-07-24,Office Supplies,23187
+2011-07-26Office Supplies,181,53,0,2011-07-26,Office Supplies,23188
+2011-07-27Technology,1795,465,0,2011-07-27,Technology,46379
+2011-07-27Office Supplies,532,-58,0,2011-07-27,Office Supplies,46385
+2011-07-29Office Supplies,105,-71,3,2011-07-29,Office Supplies,69591
+2011-07-31Office Supplies,236,88,0,2011-07-31,Office Supplies,23200
+2011-08-01Furniture,270,75,0,2011-08-01,Furniture,23201
+2011-08-01Office Supplies,232,26,0,2011-08-01,Office Supplies,23202
+2011-08-03Office Supplies,334,87,0,2011-08-03,Office Supplies,92823
+2011-08-03Furniture,1228,162,0,2011-08-03,Furniture,23207
+2011-08-04Office Supplies,937,161,0,2011-08-04,Office Supplies,23209
+2011-08-04Technology,616,37,0,2011-08-04,Technology,46421
+2011-08-05Furniture,392,31,0,2011-08-05,Furniture,23212
+2011-08-05Office Supplies,500,-41,2,2011-08-05,Office Supplies,69642
+2011-08-06Office Supplies,426,111,0,2011-08-06,Office Supplies,23216
+2011-08-08Office Supplies,37,17,0,2011-08-08,Office Supplies,23218
+2011-08-09Office Supplies,1020,333,0,2011-08-09,Office Supplies,139342
+2011-08-09Technology,1805,338,0,2011-08-09,Technology,69674
+2011-08-10Office Supplies,491,99,0,2011-08-10,Office Supplies,46459
+2011-08-11Office Supplies,823,26,0,2011-08-11,Office Supplies,46465
+2011-08-12Office Supplies,443,123,0,2011-08-12,Office Supplies,116185
+2011-08-15Furniture,1906,338,0,2011-08-15,Furniture,23240
+2011-08-15Office Supplies,875,174,0,2011-08-15,Office Supplies,116215
+2011-08-16Office Supplies,1216,194,0,2011-08-16,Office Supplies,46493
+2011-08-16Technology,5122,1715,0,2011-08-16,Technology,46497
+2011-08-17Office Supplies,32,7,0,2011-08-17,Office Supplies,46501
+2011-08-18Office Supplies,165,-15,1,2011-08-18,Office Supplies,93016
+2011-08-19Office Supplies,66,12,0,2011-08-19,Office Supplies,23257
+2011-08-21Furniture,1232,204,0,2011-08-21,Furniture,46517
+2011-08-21Office Supplies,1238,245,0,2011-08-21,Office Supplies,23260
+2011-08-22Office Supplies,622,19,0,2011-08-22,Office Supplies,23261
+2011-08-23Office Supplies,118,28,0,2011-08-23,Office Supplies,69789
+2011-08-23Technology,411,-168,1,2011-08-23,Technology,23265
+2011-08-24Furniture,820,-344,1,2011-08-24,Furniture,23266
+2011-08-24Office Supplies,757,-35,0,2011-08-24,Office Supplies,46536
+2011-08-24Technology,575,-236,0,2011-08-24,Technology,23268
+2011-08-25Office Supplies,809,34,3,2011-08-25,Office Supplies,46543
+2011-08-25Technology,393,-306,1,2011-08-25,Technology,69817
+2011-08-25Furniture,439,117,0,2011-08-25,Furniture,23275
+2011-08-26Office Supplies,627,173,0,2011-08-26,Office Supplies,93110
+2011-08-26Furniture,259,-55,0,2011-08-26,Furniture,23280
+2011-08-27Furniture,897,161,0,2011-08-27,Furniture,23281
+2011-08-27Office Supplies,284,11,0,2011-08-27,Office Supplies,69849
+2011-08-29Office Supplies,154,-96,1,2011-08-29,Office Supplies,46571
+2011-08-30Office Supplies,321,-3,1,2011-08-30,Office Supplies,23287
+2011-08-30Technology,904,-317,1,2011-08-30,Technology,69867
+2011-08-31Office Supplies,1665,329,0,2011-08-31,Office Supplies,46583
+2011-09-01Office Supplies,442,162,0,2011-09-01,Office Supplies,46589
+2011-09-02Office Supplies,379,75,0,2011-09-02,Office Supplies,69891
+2011-09-03Office Supplies,208,0,1,2011-09-03,Office Supplies,46599
+2011-09-05Office Supplies,104,28,0,2011-09-05,Office Supplies,23301
+2011-09-06Office Supplies,1797,223,0,2011-09-06,Office Supplies,46605
+2011-09-06Technology,1191,-119,2,2011-09-06,Technology,23304
+2011-09-06Furniture,834,190,0,2011-09-06,Furniture,23305
+2011-09-07Office Supplies,28,10,0,2011-09-07,Office Supplies,23306
+2011-09-08Office Supplies,9060,2849,0,2011-09-08,Office Supplies,46617
+2011-09-09Office Supplies,199,72,0,2011-09-09,Office Supplies,46623
+2011-09-12Office Supplies,73,-39,2,2011-09-12,Office Supplies,46631
+2011-09-13Office Supplies,325,59,0,2011-09-13,Office Supplies,46635
+2011-09-14Office Supplies,718,-35,2,2011-09-14,Office Supplies,139930
+2011-09-14Technology,1433,59,0,2011-09-14,Technology,23324
+2011-09-15Technology,1594,306,0,2011-09-15,Technology,23326
+2011-09-15Furniture,1610,461,0,2011-09-15,Furniture,23327
+2011-09-15Office Supplies,734,17,1,2011-09-15,Office Supplies,93318
+2011-09-16Technology,1201,105,1,2011-09-16,Technology,70000
+2011-09-16Furniture,2381,950,0,2011-09-16,Furniture,23334
+2011-09-17Office Supplies,153,70,0,2011-09-17,Office Supplies,23337
+2011-09-18Office Supplies,159,10,0,2011-09-18,Office Supplies,23338
+2011-09-19Technology,1467,505,0,2011-09-19,Technology,23339
+2011-09-19Office Supplies,735,168,0,2011-09-19,Office Supplies,93366
+2011-09-19Furniture,311,68,0,2011-09-19,Furniture,23344
+2011-09-20Office Supplies,487,86,0,2011-09-20,Office Supplies,140085
+2011-09-20Furniture,330,1,0,2011-09-20,Furniture,23351
+2011-09-21Office Supplies,131,55,0,2011-09-21,Office Supplies,46705
+2011-09-22Office Supplies,2010,431,0,2011-09-22,Office Supplies,70067
+2011-09-22Furniture,326,107,0,2011-09-22,Furniture,46713
+2011-09-23Office Supplies,4718,647,1,2011-09-23,Office Supplies,116805
+2011-09-24Office Supplies,148,59,0,2011-09-24,Office Supplies,23365
+2011-09-26Office Supplies,1830,395,0,2011-09-26,Office Supplies,46733
+2011-09-26Technology,556,38,0,2011-09-26,Technology,46737
+2011-09-27Office Supplies,2210,222,0,2011-09-27,Office Supplies,70117
+2011-09-27Technology,4356,427,0,2011-09-27,Technology,46747
+2011-09-28Office Supplies,267,53,0,2011-09-28,Office Supplies,93520
+2011-09-28Furniture,187,41,0,2011-09-28,Furniture,46757
+2011-09-29Furniture,854,290,0,2011-09-29,Furniture,23384
+2011-09-29Office Supplies,765,252,0,2011-09-29,Office Supplies,23385
+2011-09-30Furniture,704,-435,3,2011-09-30,Furniture,23388
+2011-09-30Office Supplies,524,52,1,2011-09-30,Office Supplies,23389
+2011-10-04Office Supplies,438,54,0,2011-10-04,Office Supplies,23391
+2011-10-06Office Supplies,194,70,0,2011-10-06,Office Supplies,23392
+2011-10-08Office Supplies,134,27,1,2011-10-08,Office Supplies,23395
+2011-10-10Office Supplies,338,66,0,2011-10-10,Office Supplies,46795
+2011-10-11Office Supplies,209,-91,1,2011-10-11,Office Supplies,70200
+2011-10-12Office Supplies,698,197,0,2011-10-12,Office Supplies,23402
+2011-10-12Technology,1093,306,0,2011-10-12,Technology,23403
+2011-10-17Office Supplies,48,21,0,2011-10-17,Office Supplies,23408
+2011-10-19Office Supplies,107,8,1,2011-10-19,Office Supplies,46821
+2011-10-20Office Supplies,1130,-106,0,2011-10-20,Office Supplies,46825
+2011-10-22Office Supplies,188,34,0,2011-10-22,Office Supplies,46833
+2011-10-24Office Supplies,235,84,0,2011-10-24,Office Supplies,46837
+2011-10-25Office Supplies,168,5,1,2011-10-25,Office Supplies,46841
+2011-10-28Office Supplies,67,19,0,2011-10-28,Office Supplies,23424
+2011-10-31Office Supplies,403,36,0,2011-10-31,Office Supplies,46853
+2011-11-01Technology,2307,930,0,2011-11-01,Technology,70289
+2011-11-01Office Supplies,3437,582,0,2011-11-01,Office Supplies,46861
+2011-11-02Office Supplies,431,137,0,2011-11-02,Office Supplies,70306
+2011-11-02Furniture,2078,239,0,2011-11-02,Furniture,46871
+2011-11-02Technology,720,36,0,2011-11-02,Technology,23436
+2011-11-03Furniture,2127,591,0,2011-11-03,Furniture,46879
+2011-11-03Office Supplies,1507,194,0,2011-11-03,Office Supplies,117219
+2011-11-03Technology,537,145,0,2011-11-03,Technology,23442
+2011-11-04Office Supplies,682,42,2,2011-11-04,Office Supplies,46895
+2011-11-04Furniture,1207,355,0,2011-11-04,Furniture,23449
+2011-11-06Office Supplies,44,16,0,2011-11-06,Office Supplies,23454
+2011-11-07Office Supplies,250,117,0,2011-11-07,Office Supplies,46911
+2011-11-08Furniture,854,313,0,2011-11-08,Furniture,23458
+2011-11-08Office Supplies,1128,365,0,2011-11-08,Office Supplies,70380
+2011-11-09Furniture,333,59,0,2011-11-09,Furniture,23462
+2011-11-09Technology,643,53,0,2011-11-09,Technology,23463
+2011-11-10Office Supplies,1545,162,0,2011-11-10,Office Supplies,117331
+2011-11-10Technology,569,175,0,2011-11-10,Technology,23468
+2011-11-11Office Supplies,1025,-20,0,2011-11-11,Office Supplies,23470
+2011-11-14Furniture,70,22,0,2011-11-14,Furniture,23473
+2011-11-15Office Supplies,448,165,0,2011-11-15,Office Supplies,23474
+2011-11-15Technology,636,178,0,2011-11-15,Technology,46951
+2011-11-16Office Supplies,559,90,5,2011-11-16,Office Supplies,23478
+2011-11-17Office Supplies,367,48,1,2011-11-17,Office Supplies,46960
+2011-11-17Furniture,103,30,0,2011-11-17,Furniture,23480
+2011-11-18Office Supplies,23,4,0,2011-11-18,Office Supplies,23482
+2011-11-21Office Supplies,280,90,0,2011-11-21,Office Supplies,46970
+2011-11-21Furniture,231,95,0,2011-11-21,Furniture,23485
+2011-11-22Office Supplies,684,51,2,2011-11-22,Office Supplies,93956
+2011-11-22Technology,191,78,0,2011-11-22,Technology,23489
+2011-11-23Office Supplies,385,88,0,2011-11-23,Office Supplies,46985
+2011-11-25Technology,1295,609,0,2011-11-25,Technology,23495
+2011-11-25Office Supplies,25,-7,1,2011-11-25,Office Supplies,23496
+2011-11-26Office Supplies,2040,-113,0,2011-11-26,Office Supplies,46995
+2011-11-26Technology,712,26,0,2011-11-26,Technology,23499
+2011-11-27Office Supplies,99,-17,1,2011-11-27,Office Supplies,23500
+2011-11-28Office Supplies,825,8,6,2011-11-28,Office Supplies,23504
+2011-11-29Office Supplies,435,63,1,2011-11-29,Office Supplies,47013
+2011-11-30Office Supplies,161,21,1,2011-11-30,Office Supplies,94042
+2011-12-01Office Supplies,722,-128,1,2011-12-01,Office Supplies,70544
+2011-12-01Technology,3690,1545,0,2011-12-01,Technology,23515
+2011-12-02Office Supplies,1299,74,0,2011-12-02,Office Supplies,70560
+2011-12-03Technology,354,174,0,2011-12-03,Technology,23522
+2011-12-05Furniture,990,149,0,2011-12-05,Furniture,23524
+2011-12-05Office Supplies,59,16,0,2011-12-05,Office Supplies,23525
+2011-12-06Technology,930,92,0,2011-12-06,Technology,23526
+2011-12-06Office Supplies,336,83,0,2011-12-06,Office Supplies,94114
+2011-12-07Office Supplies,106,28,0,2011-12-07,Office Supplies,47063
+2011-12-08Office Supplies,629,103,0,2011-12-08,Office Supplies,47068
+2011-12-08Technology,467,62,0,2011-12-08,Technology,47070
+2011-12-09Furniture,1302,479,0,2011-12-09,Furniture,23537
+2011-12-09Office Supplies,584,96,0,2011-12-09,Office Supplies,23538
+2011-12-10Office Supplies,859,47,0,2011-12-10,Office Supplies,94162
+2011-12-12Office Supplies,197,52,0,2011-12-12,Office Supplies,47087
+2011-12-13Technology,325,-4,0,2011-12-13,Technology,47097
+2011-12-13Office Supplies,2059,-745,6,2011-12-13,Office Supplies,94198
+2011-12-13Furniture,2995,-958,6,2011-12-13,Furniture,23548
+2011-12-15Furniture,2598,797,0,2011-12-15,Furniture,70665
+2011-12-15Office Supplies,1615,223,0,2011-12-15,Office Supplies,47115
+2011-12-15Technology,1557,430,0,2011-12-15,Technology,23559
+2011-12-16Office Supplies,613,37,0,2011-12-16,Office Supplies,47121
+2011-12-17Office Supplies,1049,287,2,2011-12-17,Office Supplies,94254
+2011-12-19Technology,91,35,0,2011-12-19,Technology,47134
+2011-12-19Office Supplies,599,106,1,2011-12-19,Office Supplies,47136
+2011-12-20Office Supplies,552,157,1,2011-12-20,Office Supplies,165011
+2011-12-21Technology,246,-143,2,2011-12-21,Technology,23577
+2011-12-21Office Supplies,1525,2,2,2011-12-21,Office Supplies,70737
+2011-12-22Office Supplies,490,157,0,2011-12-22,Office Supplies,47164
+2011-12-23Technology,1995,-377,3,2011-12-23,Technology,47169
+2011-12-26Furniture,4746,1175,1,2011-12-26,Furniture,47179
+2011-12-26Office Supplies,997,392,0,2011-12-26,Office Supplies,70767
+2011-12-26Technology,1917,918,0,2011-12-26,Technology,23591
+2011-12-27Office Supplies,1846,319,0,2011-12-27,Office Supplies,70782
+2011-12-27Technology,946,-86,1,2011-12-27,Technology,23596
+2011-12-28Office Supplies,764,168,1,2011-12-28,Office Supplies,118000
+2011-12-29Office Supplies,216,45,0,2011-12-29,Office Supplies,70812
+2011-12-30Technology,502,223,0,2011-12-30,Technology,47213
+2011-12-30Office Supplies,204,62,0,2011-12-30,Office Supplies,23608
+2011-12-30Furniture,299,113,0,2011-12-30,Furniture,23609
+2012-01-02Office Supplies,87,20,0,2012-01-02,Office Supplies,23610
+2012-01-03Office Supplies,452,93,0,2012-01-03,Office Supplies,23613
+2012-01-05Technology,1494,56,1,2012-01-05,Technology,23615
+2012-01-05Office Supplies,936,356,0,2012-01-05,Office Supplies,23616
+2012-01-05Furniture,570,167,0,2012-01-05,Furniture,70854
+2012-01-06Office Supplies,100,13,0,2012-01-06,Office Supplies,23620
+2012-01-07Office Supplies,131,18,0,2012-01-07,Office Supplies,70866
+2012-01-09Office Supplies,274,-2,0,2012-01-09,Office Supplies,47250
+2012-01-09Furniture,1022,61,0,2012-01-09,Furniture,23625
+2012-01-10Office Supplies,1537,-781,2,2012-01-10,Office Supplies,23628
+2012-01-11Office Supplies,114,1,0,2012-01-11,Office Supplies,23629
+2012-01-12Office Supplies,1845,490,0,2012-01-12,Office Supplies,23630
+2012-01-12Technology,1753,294,0,2012-01-12,Technology,23631
+2012-01-13Office Supplies,612,159,0,2012-01-13,Office Supplies,23632
+2012-01-13Technology,1207,36,0,2012-01-13,Technology,23633
+2012-01-14Technology,407,29,0,2012-01-14,Technology,23634
+2012-01-16Furniture,1101,223,0,2012-01-16,Furniture,23635
+2012-01-16Office Supplies,2511,5,0,2012-01-16,Office Supplies,94550
+2012-01-17Office Supplies,171,-72,1,2012-01-17,Office Supplies,23640
+2012-01-18Technology,340,30,0,2012-01-18,Technology,23641
+2012-01-18Furniture,254,38,0,2012-01-18,Furniture,23642
+2012-01-18Office Supplies,1408,369,0,2012-01-18,Office Supplies,47287
+2012-01-19Office Supplies,203,-27,3,2012-01-19,Office Supplies,23645
+2012-01-20Office Supplies,18,3,0,2012-01-20,Office Supplies,47293
+2012-01-23Furniture,1451,-363,1,2012-01-23,Furniture,23649
+2012-01-23Office Supplies,252,51,0,2012-01-23,Office Supplies,47301
+2012-01-24Office Supplies,918,43,0,2012-01-24,Office Supplies,94614
+2012-01-25Office Supplies,1063,220,0,2012-01-25,Office Supplies,47315
+2012-01-25Technology,297,133,0,2012-01-25,Technology,23657
+2012-01-25Furniture,68,30,0,2012-01-25,Furniture,23658
+2012-01-27Office Supplies,378,97,0,2012-01-27,Office Supplies,70983
+2012-01-28Office Supplies,27,1,0,2012-01-28,Office Supplies,23663
+2012-02-02Office Supplies,406,75,0,2012-02-02,Office Supplies,47337
+2012-02-06Furniture,44,0,0,2012-02-06,Furniture,23673
+2012-02-06Office Supplies,358,42,0,2012-02-06,Office Supplies,23674
+2012-02-07Office Supplies,169,42,0,2012-02-07,Office Supplies,47351
+2012-02-08Office Supplies,141,47,0,2012-02-08,Office Supplies,23678
+2012-02-09Technology,1188,185,0,2012-02-09,Technology,23679
+2012-02-09Office Supplies,908,105,0,2012-02-09,Office Supplies,47361
+2012-02-10Office Supplies,54,12,0,2012-02-10,Office Supplies,23682
+2012-02-11Office Supplies,65,-6,0,2012-02-11,Office Supplies,23683
+2012-02-13Office Supplies,449,67,0,2012-02-13,Office Supplies,23684
+2012-02-14Office Supplies,168,75,0,2012-02-14,Office Supplies,47371
+2012-02-15Office Supplies,275,53,1,2012-02-15,Office Supplies,47375
+2012-02-15Furniture,17,-19,1,2012-02-15,Furniture,23689
+2012-02-18Office Supplies,230,39,0,2012-02-18,Office Supplies,71073
+2012-02-20Office Supplies,192,47,0,2012-02-20,Office Supplies,23693
+2012-02-21Office Supplies,157,59,0,2012-02-21,Office Supplies,23694
+2012-02-22Office Supplies,230,57,0,2012-02-22,Office Supplies,23696
+2012-02-22Technology,352,60,0,2012-02-22,Technology,23697
+2012-02-23Office Supplies,83,12,0,2012-02-23,Office Supplies,47397
+2012-02-27Office Supplies,21,5,0,2012-02-27,Office Supplies,23700
+2012-02-28Office Supplies,72,-4,0,2012-02-28,Office Supplies,23703
+2012-03-02Office Supplies,952,-251,4,2012-03-02,Office Supplies,94830
+2012-03-03Office Supplies,290,70,0,2012-03-03,Office Supplies,23710
+2012-03-05Office Supplies,378,58,0,2012-03-05,Office Supplies,47423
+2012-03-07Office Supplies,1294,154,1,2012-03-07,Office Supplies,142317
+2012-03-08Office Supplies,44,10,0,2012-03-08,Office Supplies,23723
+2012-03-09Office Supplies,64,24,0,2012-03-09,Office Supplies,71175
+2012-03-12Office Supplies,355,46,0,2012-03-12,Office Supplies,23727
+2012-03-13Furniture,140,34,0,2012-03-13,Furniture,71187
+2012-03-13Office Supplies,311,47,0,2012-03-13,Office Supplies,23731
+2012-03-14Office Supplies,335,105,1,2012-03-14,Office Supplies,47465
+2012-03-14Technology,948,66,0,2012-03-14,Technology,23734
+2012-03-15Furniture,1033,362,0,2012-03-15,Furniture,23735
+2012-03-15Office Supplies,1023,53,6,2012-03-15,Office Supplies,71211
+2012-03-15Technology,4667,-1300,3,2012-03-15,Technology,23739
+2012-03-16Office Supplies,254,14,0,2012-03-16,Office Supplies,71223
+2012-03-17Office Supplies,390,89,0,2012-03-17,Office Supplies,47487
+2012-03-19Office Supplies,2348,610,0,2012-03-19,Office Supplies,94991
+2012-03-19Technology,134,-31,0,2012-03-19,Technology,47500
+2012-03-20Office Supplies,758,140,0,2012-03-20,Office Supplies,47506
+2012-03-21Office Supplies,90,3,0,2012-03-21,Office Supplies,23755
+2012-03-22Technology,129,46,0,2012-03-22,Technology,47515
+2012-03-22Furniture,399,-263,1,2012-03-22,Furniture,23757
+2012-03-22Office Supplies,378,40,0,2012-03-22,Office Supplies,23758
+2012-03-23Office Supplies,159,43,0,2012-03-23,Office Supplies,23761
+2012-03-24Office Supplies,231,57,0,2012-03-24,Office Supplies,23763
+2012-03-26Office Supplies,1359,566,0,2012-03-26,Office Supplies,47535
+2012-03-27Technology,101,14,0,2012-03-27,Technology,47539
+2012-03-29Office Supplies,525,-78,1,2012-03-29,Office Supplies,23773
+2012-03-29Furniture,160,-197,1,2012-03-29,Furniture,23774
+2012-03-30Office Supplies,350,91,0,2012-03-30,Office Supplies,47551
+2012-03-31Office Supplies,1380,242,0,2012-03-31,Office Supplies,23778
+2012-04-02Office Supplies,194,49,0,2012-04-02,Office Supplies,23779
+2012-04-03Office Supplies,117,24,0,2012-04-03,Office Supplies,47564
+2012-04-04Office Supplies,275,75,0,2012-04-04,Office Supplies,47569
+2012-04-05Office Supplies,143,-20,2,2012-04-05,Office Supplies,23786
+2012-04-06Office Supplies,86,13,0,2012-04-06,Office Supplies,23788
+2012-04-07Office Supplies,397,194,0,2012-04-07,Office Supplies,23790
+2012-04-09Office Supplies,120,-4,1,2012-04-09,Office Supplies,23791
+2012-04-09Technology,1316,155,0,2012-04-09,Technology,47585
+2012-04-10Furniture,549,-428,1,2012-04-10,Furniture,23794
+2012-04-10Office Supplies,172,2,2,2012-04-10,Office Supplies,47592
+2012-04-11Furniture,399,48,0,2012-04-11,Furniture,23798
+2012-04-12Office Supplies,26,-2,0,2012-04-12,Office Supplies,23799
+2012-04-13Office Supplies,292,96,0,2012-04-13,Office Supplies,71403
+2012-04-16Office Supplies,1517,-233,2,2012-04-16,Office Supplies,47609
+2012-04-16Technology,1913,536,0,2012-04-16,Technology,23806
+2012-04-17Office Supplies,103,9,0,2012-04-17,Office Supplies,23807
+2012-04-19Office Supplies,432,108,0,2012-04-19,Office Supplies,47617
+2012-04-20Technology,377,83,0,2012-04-20,Technology,23810
+2012-04-20Office Supplies,63,14,0,2012-04-20,Office Supplies,47623
+2012-04-22Office Supplies,676,-59,2,2012-04-22,Office Supplies,47627
+2012-04-23Office Supplies,427,93,0,2012-04-23,Office Supplies,71448
+2012-04-24Office Supplies,298,-150,4,2012-04-24,Office Supplies,23819
+2012-04-25Office Supplies,155,-31,1,2012-04-25,Office Supplies,23821
+2012-04-26Office Supplies,1156,358,0,2012-04-26,Office Supplies,71469
+2012-04-27Office Supplies,674,128,2,2012-04-27,Office Supplies,119136
+2012-04-27Technology,347,20,0,2012-04-27,Technology,23829
+2012-04-28Technology,426,4,0,2012-04-28,Technology,47663
+2012-04-30Office Supplies,132,45,0,2012-04-30,Office Supplies,23833
+2012-05-01Office Supplies,478,167,1,2012-05-01,Office Supplies,71505
+2012-05-08Technology,186,-157,1,2012-05-08,Technology,47677
+2012-05-09Office Supplies,137,35,1,2012-05-09,Office Supplies,71523
+2012-05-11Office Supplies,1723,466,0,2012-05-11,Office Supplies,71532
+2012-05-12Office Supplies,542,64,0,2012-05-12,Office Supplies,23846
+2012-05-14Office Supplies,1453,353,0,2012-05-14,Office Supplies,47699
+2012-05-15Office Supplies,1087,45,0,2012-05-15,Office Supplies,95410
+2012-05-16Office Supplies,170,19,0,2012-05-16,Office Supplies,23855
+2012-05-16Furniture,2713,27,0,2012-05-16,Furniture,23856
+2012-05-17Office Supplies,2848,556,0,2012-05-17,Office Supplies,47715
+2012-05-18Office Supplies,669,207,0,2012-05-18,Office Supplies,71580
+2012-05-21Office Supplies,379,115,0,2012-05-21,Office Supplies,71589
+2012-05-21Furniture,100,19,0,2012-05-21,Furniture,71598
+2012-05-22Office Supplies,180,2,0,2012-05-22,Office Supplies,47737
+2012-05-22Furniture,827,156,0,2012-05-22,Furniture,23870
+2012-05-23Office Supplies,548,88,0,2012-05-23,Office Supplies,23871
+2012-05-24Office Supplies,300,65,0,2012-05-24,Office Supplies,47745
+2012-05-25Office Supplies,537,118,0,2012-05-25,Office Supplies,23875
+2012-05-26Office Supplies,368,98,0,2012-05-26,Office Supplies,23876
+2012-05-29Technology,6167,2545,0,2012-05-29,Technology,47757
+2012-05-31Office Supplies,302,99,0,2012-05-31,Office Supplies,71647
+2012-05-31Furniture,555,-1925,1,2012-05-31,Furniture,23883
+2012-06-01Office Supplies,270,67,1,2012-06-01,Office Supplies,143325
+2012-06-02Office Supplies,155,49,0,2012-06-02,Office Supplies,71676
+2012-06-04Office Supplies,359,64,0,2012-06-04,Office Supplies,71685
+2012-06-05Office Supplies,36,9,0,2012-06-05,Office Supplies,23897
+2012-06-06Office Supplies,361,93,0,2012-06-06,Office Supplies,95601
+2012-06-07Office Supplies,127,43,0,2012-06-07,Office Supplies,47807
+2012-06-08Office Supplies,1058,29,0,2012-06-08,Office Supplies,95626
+2012-06-09Office Supplies,135,-44,3,2012-06-09,Office Supplies,23909
+2012-06-09Technology,249,-149,1,2012-06-09,Technology,23910
+2012-06-11Office Supplies,640,115,1,2012-06-11,Office Supplies,95658
+2012-06-11Furniture,540,-120,1,2012-06-11,Furniture,71740
+2012-06-12Office Supplies,905,311,0,2012-06-12,Office Supplies,47837
+2012-06-13Office Supplies,84,3,0,2012-06-13,Office Supplies,23920
+2012-06-14Office Supplies,494,167,0,2012-06-14,Office Supplies,47845
+2012-06-15Furniture,27,-5,1,2012-06-15,Furniture,23924
+2012-06-15Office Supplies,643,50,2,2012-06-15,Office Supplies,95706
+2012-06-16Office Supplies,400,-12,0,2012-06-16,Office Supplies,47860
+2012-06-18Office Supplies,405,110,0,2012-06-18,Office Supplies,47865
+2012-06-18Furniture,3123,-63,0,2012-06-18,Furniture,47869
+2012-06-19Furniture,2864,949,0,2012-06-19,Furniture,23936
+2012-06-19Office Supplies,2946,826,0,2012-06-19,Office Supplies,95754
+2012-06-20Office Supplies,329,102,1,2012-06-20,Office Supplies,119717
+2012-06-20Technology,1081,356,0,2012-06-20,Technology,23945
+2012-06-20Furniture,2881,707,0,2012-06-20,Furniture,23946
+2012-06-21Office Supplies,622,130,0,2012-06-21,Office Supplies,119750
+2012-06-22Office Supplies,324,45,0,2012-06-22,Office Supplies,47907
+2012-06-22Technology,1077,167,0,2012-06-22,Technology,23955
+2012-06-23Office Supplies,275,33,0,2012-06-23,Office Supplies,23957
+2012-06-25Furniture,491,19,0,2012-06-25,Furniture,95842
+2012-06-25Office Supplies,818,119,0,2012-06-25,Office Supplies,71885
+2012-06-26Technology,748,135,0,2012-06-26,Technology,47931
+2012-06-26Office Supplies,67,5,0,2012-06-26,Office Supplies,23967
+2012-06-27Office Supplies,376,112,1,2012-06-27,Office Supplies,47938
+2012-06-28Office Supplies,405,127,1,2012-06-28,Office Supplies,47943
+2012-06-28Furniture,823,247,0,2012-06-28,Furniture,47947
+2012-06-29Office Supplies,952,141,1,2012-06-29,Office Supplies,95910
+2012-06-29Technology,1231,248,0,2012-06-29,Technology,23976
+2012-06-29Furniture,1215,259,0,2012-06-29,Furniture,23979
+2012-06-30Furniture,522,-78,0,2012-06-30,Furniture,23981
+2012-06-30Office Supplies,391,-54,0,2012-06-30,Office Supplies,23982
+2012-07-01Office Supplies,158,30,0,2012-07-01,Office Supplies,23983
+2012-07-02Office Supplies,269,62,0,2012-07-02,Office Supplies,23984
+2012-07-03Office Supplies,30,4,0,2012-07-03,Office Supplies,47971
+2012-07-03Technology,2123,125,0,2012-07-03,Technology,23987
+2012-07-04Office Supplies,2037,516,0,2012-07-04,Office Supplies,47980
+2012-07-05Office Supplies,309,40,0,2012-07-05,Office Supplies,23992
+2012-07-06Furniture,1707,311,0,2012-07-06,Furniture,23994
+2012-07-06Office Supplies,2476,962,0,2012-07-06,Office Supplies,119985
+2012-07-10Office Supplies,51,-21,1,2012-07-10,Office Supplies,24000
+2012-07-11Office Supplies,772,204,1,2012-07-11,Office Supplies,48004
+2012-07-11Furniture,906,235,0,2012-07-11,Furniture,24002
+2012-07-11Technology,246,66,0,2012-07-11,Technology,24004
+2012-07-13Office Supplies,1277,15,3,2012-07-13,Office Supplies,168063
+2012-07-14Office Supplies,930,99,3,2012-07-14,Office Supplies,48028
+2012-07-14Furniture,426,90,0,2012-07-14,Furniture,24014
+2012-07-16Office Supplies,101,11,0,2012-07-16,Office Supplies,24016
+2012-07-17Office Supplies,208,0,0,2012-07-17,Office Supplies,24018
+2012-07-18Office Supplies,96,34,0,2012-07-18,Office Supplies,48039
+2012-07-20Technology,1216,124,0,2012-07-20,Technology,24021
+2012-07-20Office Supplies,1193,19,0,2012-07-20,Office Supplies,48045
+2012-07-23Office Supplies,1858,123,0,2012-07-23,Office Supplies,72075
+2012-07-24Office Supplies,1595,241,0,2012-07-24,Office Supplies,24028
+2012-07-25Office Supplies,786,-61,6,2012-07-25,Office Supplies,96122
+2012-07-28Office Supplies,44,7,0,2012-07-28,Office Supplies,24036
+2012-07-30Office Supplies,874,330,1,2012-07-30,Office Supplies,72116
+2012-07-30Technology,307,64,0,2012-07-30,Technology,24038
+2012-08-01Office Supplies,5018,2293,0,2012-08-01,Office Supplies,96170
+2012-08-01Furniture,389,67,0,2012-08-01,Furniture,24045
+2012-08-02Office Supplies,755,185,2,2012-08-02,Office Supplies,72141
+2012-08-03Office Supplies,2697,277,2,2012-08-03,Office Supplies,48101
+2012-08-03Furniture,1186,462,0,2012-08-03,Furniture,96210
+2012-08-03Technology,3064,861,2,2012-08-03,Technology,48109
+2012-08-04Office Supplies,1091,144,0,2012-08-04,Office Supplies,96234
+2012-08-05Furniture,1285,414,0,2012-08-05,Furniture,24061
+2012-08-06Office Supplies,706,66,1,2012-08-06,Office Supplies,120324
+2012-08-06Technology,2119,318,0,2012-08-06,Technology,48131
+2012-08-06Furniture,124,38,0,2012-08-06,Furniture,24069
+2012-08-07Furniture,1373,87,0,2012-08-07,Furniture,24070
+2012-08-07Office Supplies,365,67,1,2012-08-07,Office Supplies,72216
+2012-08-08Technology,562,50,0,2012-08-08,Technology,24075
+2012-08-08Office Supplies,506,152,0,2012-08-08,Office Supplies,48153
+2012-08-09Technology,1970,24,0,2012-08-09,Technology,72238
+2012-08-09Office Supplies,627,197,0,2012-08-09,Office Supplies,24080
+2012-08-10Technology,2075,817,0,2012-08-10,Technology,72249
+2012-08-10Office Supplies,856,250,0,2012-08-10,Office Supplies,72260
+2012-08-11Office Supplies,42,7,0,2012-08-11,Office Supplies,24089
+2012-08-12Office Supplies,60,27,0,2012-08-12,Office Supplies,24090
+2012-08-13Office Supplies,1246,-123,0,2012-08-13,Office Supplies,144561
+2012-08-14Technology,2869,1121,0,2012-08-14,Technology,48199
+2012-08-14Office Supplies,2816,814,0,2012-08-14,Office Supplies,120501
+2012-08-15Office Supplies,388,120,1,2012-08-15,Office Supplies,24104
+2012-08-15Technology,559,-55,2,2012-08-15,Technology,24105
+2012-08-15Furniture,265,26,0,2012-08-15,Furniture,48213
+2012-08-16Office Supplies,822,97,0,2012-08-16,Office Supplies,48217
+2012-08-16Furniture,156,0,0,2012-08-16,Furniture,24111
+2012-08-17Office Supplies,181,48,0,2012-08-17,Office Supplies,48225
+2012-08-18Office Supplies,531,39,0,2012-08-18,Office Supplies,72347
+2012-08-18Technology,1276,371,0,2012-08-18,Technology,24115
+2012-08-20Office Supplies,65,6,0,2012-08-20,Office Supplies,24118
+2012-08-20Technology,755,107,0,2012-08-20,Technology,24119
+2012-08-21Office Supplies,197,-60,3,2012-08-21,Office Supplies,48241
+2012-08-21Technology,399,-63,2,2012-08-21,Technology,72369
+2012-08-22Office Supplies,546,114,0,2012-08-22,Office Supplies,48251
+2012-08-23Office Supplies,1530,46,2,2012-08-23,Office Supplies,144779
+2012-08-23Technology,223,5,0,2012-08-23,Technology,24131
+2012-08-24Furniture,3191,866,0,2012-08-24,Furniture,24134
+2012-08-24Office Supplies,2565,536,7,2012-08-24,Office Supplies,144826
+2012-08-24Technology,3479,350,1,2012-08-24,Technology,24140
+2012-08-27Office Supplies,199,0,1,2012-08-27,Office Supplies,48291
+2012-08-28Office Supplies,107,27,0,2012-08-28,Office Supplies,24148
+2012-08-29Technology,5282,1313,0,2012-08-29,Technology,48304
+2012-08-29Office Supplies,2910,38,2,2012-08-29,Office Supplies,120768
+2012-08-29Furniture,1513,276,0,2012-08-29,Furniture,48305
+2012-08-30Office Supplies,796,195,0,2012-08-30,Office Supplies,120804
+2012-08-30Furniture,2794,516,0,2012-08-30,Furniture,24159
+2012-08-31Office Supplies,139,23,1,2012-08-31,Office Supplies,48331
+2012-08-31Technology,1722,260,1,2012-08-31,Technology,24165
+2012-09-01Furniture,901,360,0,2012-09-01,Furniture,24168
+2012-09-01Office Supplies,627,184,0,2012-09-01,Office Supplies,48339
+2012-09-02Office Supplies,601,123,0,2012-09-02,Office Supplies,48343
+2012-09-03Office Supplies,438,30,1,2012-09-03,Office Supplies,96703
+2012-09-03Technology,183,16,0,2012-09-03,Technology,24176
+2012-09-04Office Supplies,717,332,0,2012-09-04,Office Supplies,48362
+2012-09-04Technology,1185,140,0,2012-09-04,Technology,24180
+2012-09-04Furniture,1230,191,0,2012-09-04,Furniture,72547
+2012-09-05Furniture,971,129,0,2012-09-05,Furniture,72558
+2012-09-05Office Supplies,344,45,0,2012-09-05,Office Supplies,48377
+2012-09-06Office Supplies,446,75,0,2012-09-06,Office Supplies,96766
+2012-09-07Office Supplies,379,90,0,2012-09-07,Office Supplies,72588
+2012-09-07Technology,921,388,0,2012-09-07,Technology,48397
+2012-09-09Furniture,1201,-148,0,2012-09-09,Furniture,24201
+2012-09-10Furniture,904,-271,2,2012-09-10,Furniture,24202
+2012-09-10Office Supplies,1665,351,0,2012-09-10,Office Supplies,96818
+2012-09-10Technology,1684,478,0,2012-09-10,Technology,24207
+2012-09-11Technology,207,33,0,2012-09-11,Technology,24208
+2012-09-12Office Supplies,760,35,0,2012-09-12,Office Supplies,48421
+2012-09-12Technology,1134,233,0,2012-09-12,Technology,72639
+2012-09-13Office Supplies,130,-53,1,2012-09-13,Office Supplies,72650
+2012-09-13Furniture,721,4,0,2012-09-13,Furniture,24216
+2012-09-14Office Supplies,430,166,0,2012-09-14,Office Supplies,48439
+2012-09-16Office Supplies,36,6,0,2012-09-16,Office Supplies,24221
+2012-09-17Office Supplies,1771,159,0,2012-09-17,Office Supplies,48448
+2012-09-17Technology,2141,-297,0,2012-09-17,Technology,72672
+2012-09-18Office Supplies,412,165,0,2012-09-18,Office Supplies,24227
+2012-09-18Furniture,2389,246,0,2012-09-18,Furniture,24228
+2012-09-19Furniture,51,12,0,2012-09-19,Furniture,24229
+2012-09-19Office Supplies,413,10,0,2012-09-19,Office Supplies,24230
+2012-09-20Office Supplies,2499,495,0,2012-09-20,Office Supplies,96932
+2012-09-20Technology,5119,560,0,2012-09-20,Technology,24233
+2012-09-20Furniture,4585,87,0,2012-09-20,Furniture,24236
+2012-09-21Furniture,123,16,0,2012-09-21,Furniture,24237
+2012-09-21Office Supplies,229,0,3,2012-09-21,Office Supplies,96958
+2012-09-21Technology,1258,-7,0,2012-09-21,Technology,24242
+2012-09-22Office Supplies,656,-315,4,2012-09-22,Office Supplies,72732
+2012-09-24Office Supplies,823,179,0,2012-09-24,Office Supplies,96990
+2012-09-25Office Supplies,217,46,1,2012-09-25,Office Supplies,48501
+2012-09-26Office Supplies,211,38,0,2012-09-26,Office Supplies,48505
+2012-09-27Technology,837,419,0,2012-09-27,Technology,24255
+2012-09-27Office Supplies,1127,202,0,2012-09-27,Office Supplies,97030
+2012-09-28Technology,1788,-395,3,2012-09-28,Technology,97058
+2012-09-28Furniture,3218,391,0,2012-09-28,Furniture,24261
+2012-09-28Office Supplies,528,142,0,2012-09-28,Office Supplies,72789
+2012-09-29Office Supplies,760,-248,3,2012-09-29,Office Supplies,24268
+2012-10-01Office Supplies,509,6,2,2012-10-01,Office Supplies,48545
+2012-10-01Technology,2215,53,0,2012-10-01,Technology,24272
+2012-10-01Furniture,2002,609,0,2012-10-01,Furniture,24273
+2012-10-03Office Supplies,79,2,0,2012-10-03,Office Supplies,24276
+2012-10-04Office Supplies,283,100,0,2012-10-04,Office Supplies,72836
+2012-10-04Technology,468,30,0,2012-10-04,Technology,24278
+2012-10-05Office Supplies,474,156,0,2012-10-05,Office Supplies,24281
+2012-10-05Technology,248,39,0,2012-10-05,Technology,24282
+2012-10-08Office Supplies,289,-154,2,2012-10-08,Office Supplies,24283
+2012-10-09Office Supplies,51,10,0,2012-10-09,Office Supplies,24284
+2012-10-10Office Supplies,168,60,0,2012-10-10,Office Supplies,72858
+2012-10-11Office Supplies,78,6,0,2012-10-11,Office Supplies,24288
+2012-10-15Office Supplies,533,52,0,2012-10-15,Office Supplies,72876
+2012-10-16Technology,362,-121,0,2012-10-16,Technology,24295
+2012-10-17Office Supplies,593,70,0,2012-10-17,Office Supplies,72897
+2012-10-17Technology,223,27,0,2012-10-17,Technology,24297
+2012-10-17Furniture,1288,498,0,2012-10-17,Furniture,48597
+2012-10-18Office Supplies,351,20,0,2012-10-18,Office Supplies,72909
+2012-10-19Office Supplies,835,47,0,2012-10-19,Office Supplies,24305
+2012-10-20Office Supplies,45,8,0,2012-10-20,Office Supplies,24307
+2012-10-22Office Supplies,141,49,0,2012-10-22,Office Supplies,48617
+2012-10-23Office Supplies,96,27,0,2012-10-23,Office Supplies,48623
+2012-10-24Office Supplies,997,260,0,2012-10-24,Office Supplies,72942
+2012-10-26Technology,327,82,0,2012-10-26,Technology,24317
+2012-10-27Office Supplies,716,148,0,2012-10-27,Office Supplies,72960
+2012-10-30Furniture,1290,349,0,2012-10-30,Furniture,48649
+2012-10-30Office Supplies,1244,370,0,2012-10-30,Office Supplies,72976
+2012-10-31Office Supplies,1415,261,1,2012-10-31,Office Supplies,24330
+2012-11-01Office Supplies,639,145,2,2012-11-01,Office Supplies,97338
+2012-11-02Technology,735,-211,2,2012-11-02,Technology,97354
+2012-11-02Furniture,2071,-621,1,2012-11-02,Furniture,24341
+2012-11-02Office Supplies,863,-105,3,2012-11-02,Office Supplies,24342
+2012-11-03Office Supplies,45,13,0,2012-11-03,Office Supplies,48687
+2012-11-05Office Supplies,430,51,0,2012-11-05,Office Supplies,170439
+2012-11-05Furniture,1270,-16,2,2012-11-05,Furniture,24349
+2012-11-06Office Supplies,1682,189,0,2012-11-06,Office Supplies,97418
+2012-11-08Office Supplies,929,103,1,2012-11-08,Office Supplies,97452
+2012-11-08Technology,176,19,0,2012-11-08,Technology,24362
+2012-11-09Technology,1441,71,0,2012-11-09,Technology,24367
+2012-11-09Office Supplies,448,169,0,2012-11-09,Office Supplies,48737
+2012-11-10Furniture,2555,-882,0,2012-11-10,Furniture,48743
+2012-11-10Office Supplies,752,61,0,2012-11-10,Office Supplies,121868
+2012-11-10Technology,2547,44,0,2012-11-10,Technology,24377
+2012-11-12Furniture,2792,-444,2,2012-11-12,Furniture,48758
+2012-11-12Office Supplies,606,77,3,2012-11-12,Office Supplies,73142
+2012-11-13Office Supplies,4139,526,0,2012-11-13,Office Supplies,97544
+2012-11-13Furniture,415,83,0,2012-11-13,Furniture,73158
+2012-11-14Office Supplies,518,79,0,2012-11-14,Office Supplies,97570
+2012-11-15Technology,735,191,0,2012-11-15,Technology,48793
+2012-11-15Furniture,63,25,0,2012-11-15,Furniture,24396
+2012-11-15Office Supplies,1830,161,0,2012-11-15,Office Supplies,24397
+2012-11-16Technology,2417,421,0,2012-11-16,Technology,24399
+2012-11-16Office Supplies,702,-363,0,2012-11-16,Office Supplies,48801
+2012-11-17Office Supplies,83,10,1,2012-11-17,Office Supplies,73210
+2012-11-17Furniture,343,-223,1,2012-11-17,Furniture,24404
+2012-11-19Office Supplies,269,101,0,2012-11-19,Office Supplies,73223
+2012-11-19Technology,985,251,0,2012-11-19,Technology,24407
+2012-11-20Office Supplies,640,127,0,2012-11-20,Office Supplies,170891
+2012-11-21Office Supplies,861,230,0,2012-11-21,Office Supplies,73254
+2012-11-21Technology,1594,-225,0,2012-11-21,Technology,24420
+2012-11-22Furniture,831,108,0,2012-11-22,Furniture,24421
+2012-11-22Office Supplies,924,289,0,2012-11-22,Office Supplies,73270
+2012-11-23Office Supplies,1176,169,0,2012-11-23,Office Supplies,48856
+2012-11-23Technology,2062,76,0,2012-11-23,Technology,48855
+2012-11-23Furniture,1511,-13,0,2012-11-23,Furniture,24429
+2012-11-24Office Supplies,1498,57,0,2012-11-24,Office Supplies,24431
+2012-11-24Furniture,324,17,0,2012-11-24,Furniture,48865
+2012-11-26Office Supplies,656,28,0,2012-11-26,Office Supplies,97746
+2012-11-27Office Supplies,159,51,0,2012-11-27,Office Supplies,73320
+2012-11-29Technology,1504,190,0,2012-11-29,Technology,24444
+2012-11-29Office Supplies,608,220,0,2012-11-29,Office Supplies,122238
+2012-11-29Furniture,74,-31,1,2012-11-29,Furniture,24447
+2012-11-30Office Supplies,111,39,0,2012-11-30,Office Supplies,24451
+2012-12-01Office Supplies,1075,343,0,2012-12-01,Office Supplies,48906
+2012-12-01Furniture,651,145,0,2012-12-01,Furniture,24453
+2012-12-03Office Supplies,1166,93,1,2012-12-03,Office Supplies,146755
+2012-12-03Technology,1237,99,0,2012-12-03,Technology,24456
+2012-12-03Furniture,2128,-1464,3,2012-12-03,Furniture,24457
+2012-12-04Furniture,201,98,0,2012-12-04,Furniture,24463
+2012-12-04Office Supplies,627,152,0,2012-12-04,Office Supplies,48929
+2012-12-05Office Supplies,284,32,0,2012-12-05,Office Supplies,48933
+2012-12-06Office Supplies,388,118,1,2012-12-06,Office Supplies,73409
+2012-12-07Office Supplies,856,60,0,2012-12-07,Office Supplies,48945
+2012-12-10Office Supplies,312,74,0,2012-12-10,Office Supplies,73427
+2012-12-10Technology,92,28,0,2012-12-10,Technology,24475
+2012-12-11Furniture,769,299,0,2012-12-11,Furniture,24479
+2012-12-12Office Supplies,405,-23,1,2012-12-12,Office Supplies,146897
+2012-12-12Technology,136,41,0,2012-12-12,Technology,24484
+2012-12-13Office Supplies,1261,87,0,2012-12-13,Office Supplies,24487
+2012-12-13Technology,7917,938,0,2012-12-13,Technology,24488
+2012-12-14Technology,1003,354,0,2012-12-14,Technology,73470
+2012-12-14Furniture,1207,503,0,2012-12-14,Furniture,48985
+2012-12-15Office Supplies,798,158,0,2012-12-15,Office Supplies,24496
+2012-12-17Office Supplies,1602,429,3,2012-12-17,Office Supplies,196004
+2012-12-18Furniture,470,50,0,2012-12-18,Furniture,24505
+2012-12-18Office Supplies,1087,95,0,2012-12-18,Office Supplies,73521
+2012-12-19Furniture,2077,670,0,2012-12-19,Furniture,49020
+2012-12-19Office Supplies,126,18,0,2012-12-19,Office Supplies,49022
+2012-12-20Office Supplies,368,39,0,2012-12-20,Office Supplies,73542
+2012-12-20Technology,3074,265,0,2012-12-20,Technology,24516
+2012-12-21Furniture,527,21,0,2012-12-21,Furniture,24517
+2012-12-21Office Supplies,2304,847,0,2012-12-21,Office Supplies,49037
+2012-12-22Furniture,342,121,0,2012-12-22,Furniture,24520
+2012-12-22Office Supplies,636,-5,0,2012-12-22,Office Supplies,49043
+2012-12-24Office Supplies,1209,302,0,2012-12-24,Office Supplies,49049
+2012-12-25Furniture,1048,315,0,2012-12-25,Furniture,24526
+2012-12-25Office Supplies,4220,1233,0,2012-12-25,Office Supplies,24527
+2012-12-25Technology,220,40,0,2012-12-25,Technology,24528
+2012-12-26Furniture,1742,261,0,2012-12-26,Furniture,24529
+2012-12-26Office Supplies,1276,128,3,2012-12-26,Office Supplies,73594
+2012-12-26Technology,1602,-1346,1,2012-12-26,Technology,24532
+2012-12-27Technology,1026,176,0,2012-12-27,Technology,73611
+2012-12-27Office Supplies,1295,268,1,2012-12-27,Office Supplies,49074
+2012-12-28Office Supplies,1833,544,1,2012-12-28,Office Supplies,98174
+2012-12-29Office Supplies,807,235,0,2012-12-29,Office Supplies,98190
+2012-12-30Office Supplies,204,60,0,2012-12-30,Office Supplies,24550
+2012-12-31Technology,210,-22,0,2012-12-31,Technology,73656
+2012-12-31Furniture,474,-157,1,2012-12-31,Furniture,49109
+2013-01-01Office Supplies,599,218,0,2013-01-01,Office Supplies,49113
+2013-01-02Furniture,1567,360,0,2013-01-02,Furniture,24559
+2013-01-02Office Supplies,2122,162,0,2013-01-02,Office Supplies,98246
+2013-01-03Office Supplies,1903,498,1,2013-01-03,Office Supplies,73701
+2013-01-03Technology,511,158,0,2013-01-03,Technology,49131
+2013-01-03Furniture,373,-4,0,2013-01-03,Furniture,24567
+2013-01-04Office Supplies,4906,687,1,2013-01-04,Office Supplies,73719
+2013-01-04Technology,278,42,0,2013-01-04,Technology,49143
+2013-01-04Furniture,1107,232,1,2013-01-04,Furniture,24573
+2013-01-05Office Supplies,40,18,0,2013-01-05,Office Supplies,24576
+2013-01-07Office Supplies,2093,260,0,2013-01-07,Office Supplies,73734
+2013-01-08Office Supplies,57,3,0,2013-01-08,Office Supplies,49161
+2013-01-09Office Supplies,19,1,0,2013-01-09,Office Supplies,24582
+2013-01-11Office Supplies,168,-4,0,2013-01-11,Office Supplies,49167
+2013-01-12Office Supplies,4326,1477,0,2013-01-12,Office Supplies,49171
+2013-01-14Technology,89,8,0,2013-01-14,Technology,49175
+2013-01-14Office Supplies,452,123,3,2013-01-14,Office Supplies,24589
+2013-01-15Technology,1275,497,0,2013-01-15,Technology,24590
+2013-01-15Office Supplies,56,26,0,2013-01-15,Office Supplies,24591
+2013-01-16Office Supplies,653,165,1,2013-01-16,Office Supplies,49185
+2013-01-16Technology,464,-216,2,2013-01-16,Technology,24594
+2013-01-17Office Supplies,577,4,3,2013-01-17,Office Supplies,73788
+2013-01-17Technology,529,-254,1,2013-01-17,Technology,24598
+2013-01-18Office Supplies,330,-55,4,2013-01-18,Office Supplies,98406
+2013-01-19Office Supplies,1828,656,0,2013-01-19,Office Supplies,49209
+2013-01-21Office Supplies,46,-40,1,2013-01-21,Office Supplies,24607
+2013-01-23Office Supplies,67,16,0,2013-01-23,Office Supplies,49219
+2013-01-24Office Supplies,56,14,0,2013-01-24,Office Supplies,49223
+2013-01-25Office Supplies,115,19,0,2013-01-25,Office Supplies,24614
+2013-01-26Office Supplies,14,-1,0,2013-01-26,Office Supplies,24615
+2013-01-28Technology,2929,-90,0,2013-01-28,Technology,49237
+2013-01-28Office Supplies,460,98,0,2013-01-28,Office Supplies,49237
+2013-01-29Office Supplies,2548,-194,2,2013-01-29,Office Supplies,123116
+2013-01-29Furniture,733,-233,1,2013-01-29,Furniture,24625
+2013-01-30Office Supplies,274,84,0,2013-01-30,Office Supplies,24627
+2013-01-31Office Supplies,91,20,0,2013-01-31,Office Supplies,73887
+2013-02-01Office Supplies,128,42,0,2013-02-01,Office Supplies,73896
+2013-02-02Office Supplies,285,67,0,2013-02-02,Office Supplies,24634
+2013-02-03Office Supplies,338,13,0,2013-02-03,Office Supplies,24635
+2013-02-05Office Supplies,1274,-719,6,2013-02-05,Office Supplies,98554
+2013-02-06Office Supplies,63,19,0,2013-02-06,Office Supplies,73926
+2013-02-07Office Supplies,572,110,0,2013-02-07,Office Supplies,49289
+2013-02-08Office Supplies,519,72,1,2013-02-08,Office Supplies,49294
+2013-02-08Technology,291,-116,1,2013-02-08,Technology,24647
+2013-02-11Office Supplies,381,133,0,2013-02-11,Office Supplies,98603
+2013-02-12Office Supplies,851,80,1,2013-02-12,Office Supplies,73969
+2013-02-12Technology,278,62,0,2013-02-12,Technology,49311
+2013-02-13Office Supplies,505,113,1,2013-02-13,Office Supplies,98646
+2013-02-14Office Supplies,542,23,1,2013-02-14,Office Supplies,49331
+2013-02-15Office Supplies,515,144,0,2013-02-15,Office Supplies,49335
+2013-02-18Technology,3986,1780,0,2013-02-18,Technology,24671
+2013-02-18Furniture,457,156,0,2013-02-18,Furniture,24672
+2013-02-18Office Supplies,892,230,0,2013-02-18,Office Supplies,49347
+2013-02-19Office Supplies,1284,161,0,2013-02-19,Office Supplies,74028
+2013-02-20Office Supplies,199,46,0,2013-02-20,Office Supplies,24679
+2013-02-21Office Supplies,149,35,0,2013-02-21,Office Supplies,24680
+2013-02-22Office Supplies,2972,1206,0,2013-02-22,Office Supplies,74049
+2013-02-23Office Supplies,204,71,0,2013-02-23,Office Supplies,24685
+2013-02-23Furniture,101,38,0,2013-02-23,Furniture,24686
+2013-02-23Technology,697,-74,0,2013-02-23,Technology,24687
+2013-02-25Office Supplies,656,244,0,2013-02-25,Office Supplies,98759
+2013-02-25Technology,934,-662,1,2013-02-25,Technology,24691
+2013-02-26Office Supplies,179,38,0,2013-02-26,Office Supplies,74082
+2013-02-27Office Supplies,6167,1887,0,2013-02-27,Office Supplies,49394
+2013-02-27Technology,2172,821,0,2013-02-27,Technology,24697
+2013-02-28Office Supplies,201,56,1,2013-02-28,Office Supplies,74100
+2013-03-01Office Supplies,567,183,0,2013-03-01,Office Supplies,98814
+2013-03-02Office Supplies,53,23,0,2013-03-02,Office Supplies,24706
+2013-03-03Technology,130,13,0,2013-03-03,Technology,24707
+2013-03-05Office Supplies,534,84,0,2013-03-05,Office Supplies,24710
+2013-03-06Office Supplies,45,23,0,2013-03-06,Office Supplies,24711
+2013-03-08Technology,862,198,0,2013-03-08,Technology,24713
+2013-03-08Office Supplies,675,184,0,2013-03-08,Office Supplies,98862
+2013-03-11Office Supplies,976,192,0,2013-03-11,Office Supplies,123600
+2013-03-12Technology,166,53,0,2013-03-12,Technology,24723
+2013-03-12Office Supplies,237,-7,0,2013-03-12,Office Supplies,49449
+2013-03-13Office Supplies,723,133,1,2013-03-13,Office Supplies,98912
+2013-03-13Furniture,3082,-2661,2,2013-03-13,Furniture,24730
+2013-03-14Office Supplies,45,6,0,2013-03-14,Office Supplies,24732
+2013-03-15Office Supplies,360,155,0,2013-03-15,Office Supplies,49467
+2013-03-15Furniture,697,65,0,2013-03-15,Furniture,24735
+2013-03-18Office Supplies,208,-100,1,2013-03-18,Office Supplies,24736
+2013-03-19Office Supplies,1410,471,0,2013-03-19,Office Supplies,49477
+2013-03-20Office Supplies,4087,1220,1,2013-03-20,Office Supplies,49482
+2013-03-21Office Supplies,249,42,1,2013-03-21,Office Supplies,49487
+2013-03-22Office Supplies,56,-44,1,2013-03-22,Office Supplies,24747
+2013-03-23Office Supplies,285,41,0,2013-03-23,Office Supplies,24748
+2013-03-25Office Supplies,293,73,0,2013-03-25,Office Supplies,49499
+2013-03-26Office Supplies,428,90,0,2013-03-26,Office Supplies,74256
+2013-03-28Office Supplies,563,109,0,2013-03-28,Office Supplies,24755
+2013-03-29Furniture,412,148,0,2013-03-29,Furniture,24757
+2013-03-29Office Supplies,518,14,0,2013-03-29,Office Supplies,49517
+2013-03-30Office Supplies,54,8,0,2013-03-30,Office Supplies,24760
+2013-03-31Office Supplies,356,0,0,2013-03-31,Office Supplies,24761
+2013-04-02Technology,1240,-16,0,2013-04-02,Technology,49528
+2013-04-02Office Supplies,4830,1433,0,2013-04-02,Office Supplies,123827
+2013-04-03Office Supplies,199,62,0,2013-04-03,Office Supplies,49539
+2013-04-04Technology,1462,-41,1,2013-04-04,Technology,24771
+2013-04-04Office Supplies,95,-24,2,2013-04-04,Office Supplies,49545
+2013-04-05Furniture,368,22,0,2013-04-05,Furniture,24774
+2013-04-05Office Supplies,122,32,1,2013-04-05,Office Supplies,24775
+2013-04-05Technology,2986,545,0,2013-04-05,Technology,24776
+2013-04-07Office Supplies,625,-286,0,2013-04-07,Office Supplies,24778
+2013-04-08Office Supplies,186,48,0,2013-04-08,Office Supplies,74340
+2013-04-08Furniture,654,196,0,2013-04-08,Furniture,24782
+2013-04-09Office Supplies,272,35,0,2013-04-09,Office Supplies,24784
+2013-04-10Office Supplies,290,109,0,2013-04-10,Office Supplies,24785
+2013-04-11Office Supplies,70,3,1,2013-04-11,Office Supplies,49575
+2013-04-11Technology,387,32,0,2013-04-11,Technology,49575
+2013-04-13Office Supplies,336,112,0,2013-04-13,Office Supplies,24790
+2013-04-15Office Supplies,434,157,0,2013-04-15,Office Supplies,99171
+2013-04-15Furniture,516,-396,1,2013-04-15,Furniture,24794
+2013-04-16Office Supplies,276,84,1,2013-04-16,Office Supplies,49594
+2013-04-16Furniture,126,6,0,2013-04-16,Furniture,24797
+2013-04-18Office Supplies,84,34,0,2013-04-18,Office Supplies,24799
+2013-04-19Office Supplies,40,1,0,2013-04-19,Office Supplies,24800
+2013-04-20Office Supplies,613,180,0,2013-04-20,Office Supplies,49603
+2013-04-23Office Supplies,191,-187,1,2013-04-23,Office Supplies,24804
+2013-04-24Office Supplies,38,14,0,2013-04-24,Office Supplies,24805
+2013-04-25Technology,796,47,0,2013-04-25,Technology,24806
+2013-04-25Office Supplies,1700,237,0,2013-04-25,Office Supplies,24808
+2013-04-29Office Supplies,188,74,0,2013-04-29,Office Supplies,49624
+2013-04-30Technology,3147,503,0,2013-04-30,Technology,24814
+2013-04-30Office Supplies,81,28,0,2013-04-30,Office Supplies,74448
+2013-05-01Office Supplies,1574,-99,2,2013-05-01,Office Supplies,49638
+2013-05-02Office Supplies,309,79,0,2013-05-02,Office Supplies,49643
+2013-05-03Office Supplies,337,110,0,2013-05-03,Office Supplies,24825
+2013-05-06Office Supplies,799,303,0,2013-05-06,Office Supplies,49654
+2013-05-06Technology,321,101,0,2013-05-06,Technology,24827
+2013-05-07Office Supplies,186,13,0,2013-05-07,Office Supplies,49661
+2013-05-08Office Supplies,379,66,0,2013-05-08,Office Supplies,49665
+2013-05-09Technology,67,29,0,2013-05-09,Technology,49669
+2013-05-10Office Supplies,159,73,0,2013-05-10,Office Supplies,24836
+2013-05-13Office Supplies,1000,79,0,2013-05-13,Office Supplies,49681
+2013-05-14Technology,2910,-69,0,2013-05-14,Technology,24842
+2013-05-14Office Supplies,215,39,0,2013-05-14,Office Supplies,49687
+2013-05-15Office Supplies,423,148,0,2013-05-15,Office Supplies,49691
+2013-05-16Office Supplies,859,109,0,2013-05-16,Office Supplies,99401
+2013-05-16Furniture,1756,-172,0,2013-05-16,Furniture,24849
+2013-05-17Office Supplies,176,-1,1,2013-05-17,Office Supplies,74564
+2013-05-17Furniture,43,5,0,2013-05-17,Furniture,24854
+2013-05-18Office Supplies,502,95,0,2013-05-18,Office Supplies,74577
+2013-05-21Office Supplies,49,22,0,2013-05-21,Office Supplies,24861
+2013-05-22Technology,1002,-88,0,2013-05-22,Technology,24862
+2013-05-22Office Supplies,1023,-140,0,2013-05-22,Office Supplies,24863
+2013-05-24Office Supplies,1011,373,0,2013-05-24,Office Supplies,74598
+2013-05-27Office Supplies,407,80,0,2013-05-27,Office Supplies,49739
+2013-05-28Technology,2620,370,0,2013-05-28,Technology,24871
+2013-05-28Office Supplies,568,57,2,2013-05-28,Office Supplies,74621
+2013-05-28Furniture,1931,-398,0,2013-05-28,Furniture,24873
+2013-05-29Office Supplies,105,23,0,2013-05-29,Office Supplies,24876
+2013-05-29Technology,393,-306,1,2013-05-29,Technology,24877
+2013-05-30Furniture,129,17,0,2013-05-30,Furniture,24878
+2013-05-30Office Supplies,1301,369,0,2013-05-30,Office Supplies,99522
+2013-05-30Technology,4369,1204,0,2013-05-30,Technology,24883
+2013-05-31Furniture,920,-276,1,2013-05-31,Furniture,24884
+2013-05-31Office Supplies,126,-7,2,2013-05-31,Office Supplies,24885
+2013-06-01Office Supplies,441,-49,2,2013-06-01,Office Supplies,24886
+2013-06-02Office Supplies,354,101,0,2013-06-02,Office Supplies,74667
+2013-06-02Technology,1045,224,0,2013-06-02,Technology,24891
+2013-06-03Office Supplies,3301,1259,0,2013-06-03,Office Supplies,74683
+2013-06-03Technology,437,29,0,2013-06-03,Technology,49787
+2013-06-04Office Supplies,1414,-136,3,2013-06-04,Office Supplies,149400
+2013-06-04Technology,11290,893,2,2013-06-04,Technology,49804
+2013-06-05Technology,615,25,0,2013-06-05,Technology,24905
+2013-06-05Furniture,71,-59,1,2013-06-05,Furniture,24906
+2013-06-05Office Supplies,450,119,1,2013-06-05,Office Supplies,49815
+2013-06-06Office Supplies,138,22,0,2013-06-06,Office Supplies,49821
+2013-06-07Office Supplies,715,149,0,2013-06-07,Office Supplies,99659
+2013-06-07Technology,278,42,0,2013-06-07,Technology,24913
+2013-06-08Office Supplies,716,23,0,2013-06-08,Office Supplies,74757
+2013-06-09Furniture,282,51,0,2013-06-09,Furniture,24921
+2013-06-10Furniture,225,68,0,2013-06-10,Furniture,49846
+2013-06-10Office Supplies,4083,-2997,2,2013-06-10,Office Supplies,74776
+2013-06-10Technology,2534,251,0,2013-06-10,Technology,74782
+2013-06-11Technology,1622,324,0,2013-06-11,Technology,49861
+2013-06-11Furniture,231,46,0,2013-06-11,Furniture,24932
+2013-06-11Office Supplies,376,113,0,2013-06-11,Office Supplies,24933
+2013-06-12Office Supplies,821,-38,4,2013-06-12,Office Supplies,124680
+2013-06-13Technology,225,-53,1,2013-06-13,Technology,49886
+2013-06-13Office Supplies,1784,247,3,2013-06-13,Office Supplies,124718
+2013-06-13Furniture,1329,-31,1,2013-06-13,Furniture,74831
+2013-06-14Furniture,1183,345,0,2013-06-14,Furniture,24949
+2013-06-14Office Supplies,1077,223,0,2013-06-14,Office Supplies,74853
+2013-06-14Technology,3186,1147,0,2013-06-14,Technology,24953
+2013-06-15Furniture,369,92,0,2013-06-15,Furniture,24954
+2013-06-15Office Supplies,491,74,0,2013-06-15,Office Supplies,24955
+2013-06-17Office Supplies,558,85,0,2013-06-17,Office Supplies,99833
+2013-06-17Furniture,1671,521,0,2013-06-17,Furniture,24957
+2013-06-17Technology,4025,1417,0,2013-06-17,Technology,24961
+2013-06-18Office Supplies,288,15,0,2013-06-18,Office Supplies,124820
+2013-06-19Furniture,1032,121,0,2013-06-19,Furniture,24967
+2013-06-19Technology,592,-643,1,2013-06-19,Technology,49937
+2013-06-20Office Supplies,172,-30,3,2013-06-20,Office Supplies,24970
+2013-06-21Office Supplies,476,-50,2,2013-06-21,Office Supplies,74920
+2013-06-21Furniture,2183,650,0,2013-06-21,Furniture,24974
+2013-06-21Technology,360,53,0,2013-06-21,Technology,24976
+2013-06-23Office Supplies,121,6,2,2013-06-23,Office Supplies,74937
+2013-06-24Office Supplies,541,160,0,2013-06-24,Office Supplies,99930
+2013-06-25Furniture,585,147,0,2013-06-25,Furniture,24985
+2013-06-25Office Supplies,758,64,0,2013-06-25,Office Supplies,24987
+2013-06-26Office Supplies,801,125,0,2013-06-26,Office Supplies,49977
+2013-06-26Technology,270,-56,0,2013-06-26,Technology,24990
+2013-06-26Furniture,1745,-379,1,2013-06-26,Furniture,24991
+2013-06-27Technology,769,35,0,2013-06-27,Technology,74985
+2013-06-27Office Supplies,267,84,0,2013-06-27,Office Supplies,74982
+2013-06-28Office Supplies,4393,641,2,2013-06-28,Office Supplies,49999
+2013-06-28Technology,2253,757,0,2013-06-28,Technology,24999
+2013-06-28Furniture,892,188,0,2013-06-28,Furniture,25000
+2013-06-29Office Supplies,633,85,0,2013-06-29,Office Supplies,75009
+2013-07-01Technology,964,231,0,2013-07-01,Technology,25005
+2013-07-02Furniture,2050,541,0,2013-07-02,Furniture,25006
+2013-07-02Office Supplies,666,-178,0,2013-07-02,Office Supplies,50015
+2013-07-03Technology,304,72,0,2013-07-03,Technology,50019
+2013-07-04Furniture,106,30,0,2013-07-04,Furniture,25012
+2013-07-04Office Supplies,71,6,0,2013-07-04,Office Supplies,25013
+2013-07-06Office Supplies,163,36,0,2013-07-06,Office Supplies,75045
+2013-07-08Office Supplies,4686,2053,0,2013-07-08,Office Supplies,50035
+2013-07-08Technology,3726,-1323,0,2013-07-08,Technology,25019
+2013-07-09Furniture,180,11,0,2013-07-09,Furniture,25020
+2013-07-09Office Supplies,122,20,0,2013-07-09,Office Supplies,25021
+2013-07-10Office Supplies,7,1,0,2013-07-10,Office Supplies,25022
+2013-07-11Office Supplies,597,167,0,2013-07-11,Office Supplies,75074
+2013-07-11Furniture,655,88,0,2013-07-11,Furniture,50051
+2013-07-12Technology,1020,63,0,2013-07-12,Technology,50057
+2013-07-12Office Supplies,1681,234,0,2013-07-12,Office Supplies,25030
+2013-07-13Furniture,51,6,0,2013-07-13,Furniture,25031
+2013-07-14Office Supplies,201,12,0,2013-07-14,Office Supplies,25032
+2013-07-15Technology,1331,-104,0,2013-07-15,Technology,25033
+2013-07-15Office Supplies,1504,600,0,2013-07-15,Office Supplies,75105
+2013-07-16Office Supplies,245,30,0,2013-07-16,Office Supplies,25037
+2013-07-17Office Supplies,191,32,0,2013-07-17,Office Supplies,25038
+2013-07-18Office Supplies,48,9,0,2013-07-18,Office Supplies,50079
+2013-07-20Office Supplies,651,268,0,2013-07-20,Office Supplies,25041
+2013-07-22Office Supplies,899,63,2,2013-07-22,Office Supplies,100174
+2013-07-22Technology,2960,268,1,2013-07-22,Technology,25046
+2013-07-23Office Supplies,1242,486,0,2013-07-23,Office Supplies,50096
+2013-07-24Furniture,320,82,0,2013-07-24,Furniture,50101
+2013-07-24Office Supplies,719,162,0,2013-07-24,Office Supplies,25052
+2013-07-25Office Supplies,597,76,0,2013-07-25,Office Supplies,75162
+2013-07-26Office Supplies,63,19,0,2013-07-26,Office Supplies,25056
+2013-07-26Furniture,941,-203,0,2013-07-26,Furniture,25057
+2013-07-29Furniture,837,288,0,2013-07-29,Furniture,25058
+2013-07-29Office Supplies,104,23,0,2013-07-29,Office Supplies,25059
+2013-07-30Office Supplies,220,31,0,2013-07-30,Office Supplies,75183
+2013-07-31Technology,487,52,0,2013-07-31,Technology,25063
+2013-07-31Furniture,84,-76,1,2013-07-31,Furniture,25064
+2013-07-31Office Supplies,41,8,0,2013-07-31,Office Supplies,25065
+2013-08-01Office Supplies,263,66,0,2013-08-01,Office Supplies,125340
+2013-08-02Office Supplies,122,6,1,2013-08-02,Office Supplies,75216
+2013-08-05Office Supplies,1364,59,4,2013-08-05,Office Supplies,150472
+2013-08-05Technology,21,-14,1,2013-08-05,Technology,75248
+2013-08-06Technology,1248,453,0,2013-08-06,Technology,50171
+2013-08-06Furniture,22,-41,1,2013-08-06,Furniture,25087
+2013-08-06Office Supplies,735,132,1,2013-08-06,Office Supplies,125450
+2013-08-07Office Supplies,2056,241,1,2013-08-07,Office Supplies,100383
+2013-08-07Furniture,95,38,0,2013-08-07,Furniture,50192
+2013-08-07Technology,676,73,0,2013-08-07,Technology,25097
+2013-08-08Office Supplies,839,163,0,2013-08-08,Office Supplies,125510
+2013-08-09Technology,1320,448,0,2013-08-09,Technology,75318
+2013-08-09Furniture,54,7,0,2013-08-09,Furniture,50217
+2013-08-10Office Supplies,278,27,1,2013-08-10,Office Supplies,75333
+2013-08-11Office Supplies,576,50,0,2013-08-11,Office Supplies,50227
+2013-08-11Technology,356,7,0,2013-08-11,Technology,25115
+2013-08-12Technology,306,-31,0,2013-08-12,Technology,75355
+2013-08-12Office Supplies,1261,207,1,2013-08-12,Office Supplies,175850
+2013-08-13Office Supplies,662,-258,5,2013-08-13,Office Supplies,175903
+2013-08-14Office Supplies,860,168,0,2013-08-14,Office Supplies,201092
+2013-08-15Office Supplies,557,-234,1,2013-08-15,Office Supplies,25141
+2013-08-15Furniture,1022,-282,1,2013-08-15,Furniture,25143
+2013-08-16Office Supplies,1384,182,5,2013-08-16,Office Supplies,176035
+2013-08-16Technology,256,120,0,2013-08-16,Technology,50300
+2013-08-16Furniture,5779,35,0,2013-08-16,Furniture,25150
+2013-08-17Furniture,1331,258,0,2013-08-17,Furniture,50309
+2013-08-19Office Supplies,1974,-134,4,2013-08-19,Office Supplies,50313
+2013-08-20Office Supplies,249,4,3,2013-08-20,Office Supplies,25162
+2013-08-21Office Supplies,1147,355,0,2013-08-21,Office Supplies,150993
+2013-08-22Office Supplies,319,107,0,2013-08-22,Office Supplies,75510
+2013-08-22Technology,937,382,0,2013-08-22,Technology,25172
+2013-08-23Technology,89,6,0,2013-08-23,Technology,50349
+2013-08-23Office Supplies,1085,41,0,2013-08-23,Office Supplies,75527
+2013-08-24Office Supplies,480,131,0,2013-08-24,Office Supplies,50360
+2013-08-24Furniture,551,192,0,2013-08-24,Furniture,25180
+2013-08-25Office Supplies,355,98,0,2013-08-25,Office Supplies,50367
+2013-08-27Technology,759,153,0,2013-08-27,Technology,50373
+2013-08-27Furniture,2480,-321,0,2013-08-27,Furniture,75567
+2013-08-27Office Supplies,824,89,3,2013-08-27,Office Supplies,75576
+2013-08-28Office Supplies,750,190,1,2013-08-28,Office Supplies,176379
+2013-08-28Technology,345,0,0,2013-08-28,Technology,25201
+2013-08-29Technology,146,-83,0,2013-08-29,Technology,25202
+2013-08-29Furniture,434,161,0,2013-08-29,Furniture,25203
+2013-08-29Office Supplies,881,43,0,2013-08-29,Office Supplies,50409
+2013-08-30Technology,254,89,0,2013-08-30,Technology,50413
+2013-08-30Office Supplies,1262,184,0,2013-08-30,Office Supplies,75627
+2013-08-31Furniture,548,74,0,2013-08-31,Furniture,25211
+2013-08-31Office Supplies,2051,561,0,2013-08-31,Office Supplies,50425
+2013-09-02Office Supplies,67,29,0,2013-09-02,Office Supplies,100862
+2013-09-03Office Supplies,3492,107,2,2013-09-03,Office Supplies,100881
+2013-09-04Office Supplies,850,18,0,2013-09-04,Office Supplies,50448
+2013-09-04Technology,711,-30,0,2013-09-04,Technology,50450
+2013-09-04Furniture,1715,559,0,2013-09-04,Furniture,50455
+2013-09-05Office Supplies,1805,405,1,2013-09-05,Office Supplies,151389
+2013-09-05Technology,3870,646,0,2013-09-05,Technology,50471
+2013-09-06Technology,1151,391,0,2013-09-06,Technology,25237
+2013-09-06Office Supplies,147,72,0,2013-09-06,Office Supplies,25238
+2013-09-07Office Supplies,213,62,2,2013-09-07,Office Supplies,25239
+2013-09-07Technology,163,37,0,2013-09-07,Technology,50481
+2013-09-09Office Supplies,3910,797,0,2013-09-09,Office Supplies,126222
+2013-09-09Furniture,531,88,0,2013-09-09,Furniture,50493
+2013-09-10Technology,1648,396,0,2013-09-10,Technology,25249
+2013-09-10Office Supplies,755,35,2,2013-09-10,Office Supplies,101006
+2013-09-11Office Supplies,422,31,0,2013-09-11,Office Supplies,75765
+2013-09-12Office Supplies,1135,211,2,2013-09-12,Office Supplies,101036
+2013-09-12Technology,951,167,1,2013-09-12,Technology,75784
+2013-09-13Office Supplies,249,55,0,2013-09-13,Office Supplies,25264
+2013-09-14Office Supplies,719,187,0,2013-09-14,Office Supplies,101070
+2013-09-16Technology,3022,132,0,2013-09-16,Technology,50543
+2013-09-16Office Supplies,2557,393,1,2013-09-16,Office Supplies,101098
+2013-09-17Furniture,2941,-169,1,2013-09-17,Furniture,25277
+2013-09-17Office Supplies,963,123,2,2013-09-17,Office Supplies,101118
+2013-09-18Technology,788,226,0,2013-09-18,Technology,25282
+2013-09-18Office Supplies,232,70,0,2013-09-18,Office Supplies,50567
+2013-09-19Office Supplies,215,-46,1,2013-09-19,Office Supplies,101146
+2013-09-20Office Supplies,912,-214,12,2013-09-20,Office Supplies,126461
+2013-09-20Technology,1384,-788,2,2013-09-20,Technology,50583
+2013-09-21Office Supplies,304,38,1,2013-09-21,Office Supplies,101193
+2013-09-21Furniture,1715,491,2,2013-09-21,Furniture,25297
+2013-09-21Technology,744,55,1,2013-09-21,Technology,25301
+2013-09-23Office Supplies,256,-104,3,2013-09-23,Office Supplies,25303
+2013-09-23Furniture,306,20,0,2013-09-23,Furniture,25304
+2013-09-24Technology,618,-381,4,2013-09-24,Technology,25306
+2013-09-24Office Supplies,1026,96,3,2013-09-24,Office Supplies,101235
+2013-09-25Office Supplies,1405,-143,7,2013-09-25,Office Supplies,202524
+2013-09-25Furniture,820,64,0,2013-09-25,Furniture,25320
+2013-09-26Office Supplies,276,7,1,2013-09-26,Office Supplies,75970
+2013-09-26Technology,1080,-351,0,2013-09-26,Technology,25324
+2013-09-27Technology,2042,692,1,2013-09-27,Technology,75991
+2013-09-27Furniture,1606,113,0,2013-09-27,Furniture,50658
+2013-09-27Office Supplies,1749,285,1,2013-09-27,Office Supplies,101321
+2013-09-28Technology,1086,268,0,2013-09-28,Technology,25335
+2013-09-28Office Supplies,584,128,0,2013-09-28,Office Supplies,50673
+2013-09-30Technology,1498,0,0,2013-09-30,Technology,25339
+2013-09-30Office Supplies,547,84,0,2013-09-30,Office Supplies,25340
+2013-10-03Office Supplies,405,82,0,2013-10-03,Office Supplies,25344
+2013-10-04Furniture,1057,177,0,2013-10-04,Furniture,25346
+2013-10-05Furniture,421,-14,0,2013-10-05,Furniture,50699
+2013-10-05Office Supplies,24,-10,1,2013-10-05,Office Supplies,25351
+2013-10-08Office Supplies,256,20,0,2013-10-08,Office Supplies,76062
+2013-10-09Office Supplies,333,103,2,2013-10-09,Office Supplies,50713
+2013-10-11Technology,1857,740,0,2013-10-11,Technology,25361
+2013-10-11Furniture,1211,245,0,2013-10-11,Furniture,25362
+2013-10-11Office Supplies,567,195,0,2013-10-11,Office Supplies,76092
+2013-10-12Office Supplies,69,9,1,2013-10-12,Office Supplies,50735
+2013-10-14Office Supplies,541,127,0,2013-10-14,Office Supplies,76110
+2013-10-15Office Supplies,425,111,0,2013-10-15,Office Supplies,50745
+2013-10-16Office Supplies,100,-17,2,2013-10-16,Office Supplies,50749
+2013-10-16Technology,3014,619,0,2013-10-16,Technology,25376
+2013-10-18Office Supplies,223,42,0,2013-10-18,Office Supplies,76143
+2013-10-21Technology,1232,278,0,2013-10-21,Technology,25383
+2013-10-23Technology,2363,707,0,2013-10-23,Technology,25385
+2013-10-23Office Supplies,181,64,0,2013-10-23,Office Supplies,50773
+2013-10-24Office Supplies,654,-201,3,2013-10-24,Office Supplies,50777
+2013-10-25Office Supplies,296,98,0,2013-10-25,Office Supplies,50781
+2013-10-28Office Supplies,1290,279,0,2013-10-28,Office Supplies,50785
+2013-10-29Office Supplies,128,0,0,2013-10-29,Office Supplies,50789
+2013-10-29Technology,2947,440,0,2013-10-29,Technology,50793
+2013-10-30Technology,41,20,0,2013-10-30,Technology,50797
+2013-10-31Office Supplies,73,3,0,2013-10-31,Office Supplies,25400
+2013-11-01Office Supplies,914,-59,3,2013-11-01,Office Supplies,177835
+2013-11-01Technology,457,102,0,2013-11-01,Technology,25409
+2013-11-02Technology,159,21,0,2013-11-02,Technology,50821
+2013-11-04Office Supplies,1933,911,0,2013-11-04,Office Supplies,76245
+2013-11-05Office Supplies,758,3,1,2013-11-05,Office Supplies,76254
+2013-11-05Technology,206,27,0,2013-11-05,Technology,25420
+2013-11-06Technology,1684,216,0,2013-11-06,Technology,50847
+2013-11-06Office Supplies,1267,393,0,2013-11-06,Office Supplies,101697
+2013-11-06Furniture,1064,162,0,2013-11-06,Furniture,25424
+2013-11-07Office Supplies,168,21,1,2013-11-07,Office Supplies,76287
+2013-11-08Technology,143,-26,1,2013-11-08,Technology,25431
+2013-11-08Office Supplies,62,-21,3,2013-11-08,Office Supplies,50865
+2013-11-09Technology,1278,-358,1,2013-11-09,Technology,25434
+2013-11-09Furniture,180,-54,1,2013-11-09,Furniture,25435
+2013-11-11Office Supplies,907,-48,1,2013-11-11,Office Supplies,101755
+2013-11-11Technology,2262,452,1,2013-11-11,Technology,50879
+2013-11-11Furniture,2259,-1317,2,2013-11-11,Furniture,50882
+2013-11-12Office Supplies,507,196,0,2013-11-12,Office Supplies,101785
+2013-11-12Technology,325,65,0,2013-11-12,Technology,25445
+2013-11-13Office Supplies,2621,114,0,2013-11-13,Office Supplies,127258
+2013-11-13Technology,563,192,0,2013-11-13,Technology,25451
+2013-11-14Office Supplies,683,211,0,2013-11-14,Office Supplies,50913
+2013-11-15Furniture,1475,-111,1,2013-11-15,Furniture,25458
+2013-11-15Office Supplies,887,127,0,2013-11-15,Office Supplies,76380
+2013-11-16Office Supplies,438,126,0,2013-11-16,Office Supplies,25462
+2013-11-16Technology,194,14,0,2013-11-16,Technology,50927
+2013-11-17Office Supplies,96,2,0,2013-11-17,Office Supplies,25466
+2013-11-18Office Supplies,1132,-52,2,2013-11-18,Office Supplies,76408
+2013-11-18Furniture,225,0,0,2013-11-18,Furniture,25468
+2013-11-18Technology,166,-22,0,2013-11-18,Technology,25469
+2013-11-19Office Supplies,2024,582,1,2013-11-19,Office Supplies,152850
+2013-11-19Technology,3634,1194,0,2013-11-19,Technology,25478
+2013-11-20Office Supplies,93,37,0,2013-11-20,Office Supplies,50963
+2013-11-21Office Supplies,171,70,0,2013-11-21,Office Supplies,50968
+2013-11-21Technology,2032,511,0,2013-11-21,Technology,25484
+2013-11-22Furniture,1141,339,0,2013-11-22,Furniture,50981
+2013-11-22Office Supplies,6486,1551,0,2013-11-22,Office Supplies,127450
+2013-11-22Technology,2056,95,0,2013-11-22,Technology,25493
+2013-11-24Office Supplies,44,13,0,2013-11-24,Office Supplies,25496
+2013-11-25Technology,775,154,0,2013-11-25,Technology,51001
+2013-11-25Office Supplies,3305,588,1,2013-11-25,Office Supplies,153003
+2013-11-26Furniture,287,103,0,2013-11-26,Furniture,25505
+2013-11-26Office Supplies,177,43,1,2013-11-26,Office Supplies,25506
+2013-11-26Technology,599,0,0,2013-11-26,Technology,25507
+2013-11-27Office Supplies,165,30,0,2013-11-27,Office Supplies,25508
+2013-11-27Furniture,2900,928,0,2013-11-27,Furniture,51019
+2013-11-28Office Supplies,506,6,1,2013-11-28,Office Supplies,76539
+2013-11-28Technology,832,212,0,2013-11-28,Technology,25513
+2013-11-28Furniture,3063,1470,0,2013-11-28,Furniture,51029
+2013-11-30Office Supplies,2857,739,0,2013-11-30,Office Supplies,76562
+2013-11-30Technology,855,-653,1,2013-11-30,Technology,25521
+2013-11-30Furniture,610,119,0,2013-11-30,Furniture,25522
+2013-12-02Technology,471,-462,1,2013-12-02,Technology,25524
+2013-12-02Office Supplies,2952,688,0,2013-12-02,Office Supplies,25525
+2013-12-03Office Supplies,233,90,0,2013-12-03,Office Supplies,153175
+2013-12-03Technology,1554,599,0,2013-12-03,Technology,51061
+2013-12-04Office Supplies,1063,222,0,2013-12-04,Office Supplies,102142
+2013-12-05Technology,37,9,0,2013-12-05,Technology,51083
+2013-12-05Furniture,116,52,0,2013-12-05,Furniture,51083
+2013-12-05Office Supplies,553,250,0,2013-12-05,Office Supplies,25544
+2013-12-06Office Supplies,112,20,0,2013-12-06,Office Supplies,25545
+2013-12-07Office Supplies,1202,196,0,2013-12-07,Office Supplies,76647
+2013-12-09Office Supplies,996,105,0,2013-12-09,Office Supplies,102218
+2013-12-09Technology,232,95,0,2013-12-09,Technology,51105
+2013-12-09Furniture,623,214,0,2013-12-09,Furniture,51113
+2013-12-10Furniture,1485,-427,0,2013-12-10,Furniture,51122
+2013-12-10Office Supplies,230,20,1,2013-12-10,Office Supplies,51121
+2013-12-10Technology,1115,178,0,2013-12-10,Technology,25562
+2013-12-11Office Supplies,358,89,1,2013-12-11,Office Supplies,51131
+2013-12-11Technology,815,217,0,2013-12-11,Technology,51131
+2013-12-12Office Supplies,803,128,0,2013-12-12,Office Supplies,76707
+2013-12-12Technology,176,-151,1,2013-12-12,Technology,25571
+2013-12-13Technology,1005,-166,1,2013-12-13,Technology,25572
+2013-12-13Furniture,1756,469,0,2013-12-13,Furniture,51147
+2013-12-13Office Supplies,410,63,1,2013-12-13,Office Supplies,102306
+2013-12-14Technology,572,34,0,2013-12-14,Technology,51159
+2013-12-16Technology,364,-32,0,2013-12-16,Technology,76751
+2013-12-16Office Supplies,882,81,2,2013-12-16,Office Supplies,76753
+2013-12-17Office Supplies,3119,1248,0,2013-12-17,Office Supplies,102358
+2013-12-17Technology,1033,286,0,2013-12-17,Technology,25592
+2013-12-17Furniture,204,48,0,2013-12-17,Furniture,25593
+2013-12-18Office Supplies,432,123,0,2013-12-18,Office Supplies,51190
+2013-12-18Technology,1804,438,0,2013-12-18,Technology,25595
+2013-12-19Office Supplies,2998,199,2,2013-12-19,Office Supplies,128001
+2013-12-19Furniture,175,10,0,2013-12-19,Furniture,76803
+2013-12-20Office Supplies,1244,153,0,2013-12-20,Office Supplies,179257
+2013-12-20Furniture,4580,-876,2,2013-12-20,Furniture,25611
+2013-12-20Technology,260,39,0,2013-12-20,Technology,25613
+2013-12-23Office Supplies,702,161,0,2013-12-23,Office Supplies,76847
+2013-12-23Furniture,421,111,0,2013-12-23,Furniture,25615
+2013-12-24Office Supplies,784,69,2,2013-12-24,Office Supplies,51238
+2013-12-24Technology,325,-8,0,2013-12-24,Technology,51240
+2013-12-24Furniture,714,11,0,2013-12-24,Furniture,76869
+2013-12-25Office Supplies,929,219,2,2013-12-25,Office Supplies,76878
+2013-12-25Technology,485,199,0,2013-12-25,Technology,51257
+2013-12-26Technology,5773,74,1,2013-12-26,Technology,76897
+2013-12-26Office Supplies,1509,304,0,2013-12-26,Office Supplies,76898
+2013-12-27Office Supplies,465,55,0,2013-12-27,Office Supplies,102550
+2013-12-28Office Supplies,12,4,0,2013-12-28,Office Supplies,51281
+2013-12-30Office Supplies,520,54,0,2013-12-30,Office Supplies,102574
+2013-12-31Office Supplies,318,83,0,2013-12-31,Office Supplies,25646
+2013-12-31Technology,1811,209,0,2013-12-31,Technology,51295
+2014-01-01Technology,1009,-155,0,2014-01-01,Technology,51303
+2014-01-03Office Supplies,356,47,0,2014-01-03,Office Supplies,25654
+2014-01-03Technology,2097,189,0,2014-01-03,Technology,25655
+2014-01-06Office Supplies,778,257,0,2014-01-06,Office Supplies,25657
+2014-01-06Furniture,1829,-56,0,2014-01-06,Furniture,51317
+2014-01-07Office Supplies,56,13,0,2014-01-07,Office Supplies,25660
+2014-01-08Technology,556,-60,1,2014-01-08,Technology,51326
+2014-01-08Furniture,750,123,0,2014-01-08,Furniture,25662
+2014-01-08Office Supplies,836,-64,3,2014-01-08,Office Supplies,51327
+2014-01-09Office Supplies,375,56,0,2014-01-09,Office Supplies,154011
+2014-01-10Technology,1622,95,0,2014-01-10,Technology,51345
+2014-01-10Office Supplies,509,60,0,2014-01-10,Office Supplies,25674
+2014-01-11Office Supplies,2244,247,0,2014-01-11,Office Supplies,25675
+2014-01-13Technology,1301,573,0,2014-01-13,Technology,25676
+2014-01-13Office Supplies,156,23,0,2014-01-13,Office Supplies,25677
+2014-01-14Technology,7749,2530,0,2014-01-14,Technology,25678
+2014-01-14Furniture,899,58,0,2014-01-14,Furniture,25679
+2014-01-14Office Supplies,567,155,0,2014-01-14,Office Supplies,102726
+2014-01-15Furniture,60,-10,0,2014-01-15,Furniture,25684
+2014-01-15Office Supplies,312,137,0,2014-01-15,Office Supplies,25685
+2014-01-15Technology,1014,187,0,2014-01-15,Technology,25686
+2014-01-16Office Supplies,501,86,0,2014-01-16,Office Supplies,51379
+2014-01-17Office Supplies,1471,405,0,2014-01-17,Office Supplies,25693
+2014-01-18Office Supplies,30,0,0,2014-01-18,Office Supplies,25694
+2014-01-20Technology,643,-45,0,2014-01-20,Technology,51394
+2014-01-20Office Supplies,1190,94,0,2014-01-20,Office Supplies,77091
+2014-01-21Technology,911,274,0,2014-01-21,Technology,25700
+2014-01-21Office Supplies,577,150,0,2014-01-21,Office Supplies,154221
+2014-01-22Furniture,259,-55,0,2014-01-22,Furniture,77126
+2014-01-22Office Supplies,1520,19,1,2014-01-22,Office Supplies,102844
+2014-01-23Furniture,191,13,0,2014-01-23,Furniture,25714
+2014-01-23Office Supplies,226,61,0,2014-01-23,Office Supplies,25715
+2014-01-24Office Supplies,748,97,1,2014-01-24,Office Supplies,77151
+2014-01-25Office Supplies,534,0,0,2014-01-25,Office Supplies,25720
+2014-01-26Office Supplies,229,96,0,2014-01-26,Office Supplies,51443
+2014-01-27Office Supplies,548,93,0,2014-01-27,Office Supplies,77172
+2014-01-28Office Supplies,484,81,1,2014-01-28,Office Supplies,51455
+2014-01-29Office Supplies,466,149,0,2014-01-29,Office Supplies,77190
+2014-01-29Technology,1736,17,0,2014-01-29,Technology,25732
+2014-01-31Furniture,136,48,0,2014-01-31,Furniture,25734
+2014-01-31Office Supplies,211,32,0,2014-01-31,Office Supplies,102946
+2014-02-01Office Supplies,570,74,0,2014-02-01,Office Supplies,25739
+2014-02-03Office Supplies,598,220,0,2014-02-03,Office Supplies,25742
+2014-02-04Office Supplies,6,-3,1,2014-02-04,Office Supplies,25743
+2014-02-05Furniture,244,83,0,2014-02-05,Furniture,25745
+2014-02-06Furniture,346,108,0,2014-02-06,Furniture,51495
+2014-02-06Office Supplies,441,95,0,2014-02-06,Office Supplies,25747
+2014-02-07Office Supplies,1166,40,5,2014-02-07,Office Supplies,180276
+2014-02-07Technology,1469,188,1,2014-02-07,Technology,25752
+2014-02-08Office Supplies,1450,584,0,2014-02-08,Office Supplies,51517
+2014-02-10Office Supplies,575,190,1,2014-02-10,Office Supplies,103046
+2014-02-11Office Supplies,3541,723,5,2014-02-11,Office Supplies,128830
+2014-02-14Office Supplies,1776,425,0,2014-02-14,Office Supplies,77316
+2014-02-14Technology,371,24,0,2014-02-14,Technology,51549
+2014-02-15Furniture,248,-70,1,2014-02-15,Furniture,25776
+2014-02-15Office Supplies,63,-24,1,2014-02-15,Office Supplies,25777
+2014-02-17Office Supplies,443,22,2,2014-02-17,Office Supplies,128903
+2014-02-17Technology,2655,339,1,2014-02-17,Technology,77349
+2014-02-22Office Supplies,150,56,0,2014-02-22,Office Supplies,25791
+2014-02-23Office Supplies,113,11,0,2014-02-23,Office Supplies,25792
+2014-02-24Technology,1249,382,0,2014-02-24,Technology,51588
+2014-02-24Office Supplies,164,-62,1,2014-02-24,Office Supplies,51591
+2014-02-24Furniture,880,132,1,2014-02-24,Furniture,25796
+2014-02-25Office Supplies,393,162,0,2014-02-25,Office Supplies,77398
+2014-02-25Technology,1859,23,1,2014-02-25,Technology,25800
+2014-02-26Office Supplies,230,6,1,2014-02-26,Office Supplies,103214
+2014-02-27Office Supplies,1762,107,0,2014-02-27,Office Supplies,77421
+2014-02-27Technology,1366,474,0,2014-02-27,Technology,25809
+2014-02-28Office Supplies,1059,178,0,2014-02-28,Office Supplies,103246
+2014-03-03Office Supplies,324,75,0,2014-03-03,Office Supplies,103262
+2014-03-04Office Supplies,711,43,1,2014-03-04,Office Supplies,103282
+2014-03-04Technology,1982,307,1,2014-03-04,Technology,25823
+2014-03-05Technology,688,103,0,2014-03-05,Technology,25824
+2014-03-05Office Supplies,1059,259,0,2014-03-05,Office Supplies,25825
+2014-03-06Technology,1033,29,1,2014-03-06,Technology,25828
+2014-03-06Office Supplies,440,42,3,2014-03-06,Office Supplies,25829
+2014-03-08Office Supplies,1078,323,0,2014-03-08,Office Supplies,25830
+2014-03-10Office Supplies,173,50,0,2014-03-10,Office Supplies,51665
+2014-03-11Office Supplies,125,-1,0,2014-03-11,Office Supplies,25834
+2014-03-14Furniture,1632,97,1,2014-03-14,Furniture,51677
+2014-03-15Office Supplies,1045,35,0,2014-03-15,Office Supplies,77526
+2014-03-17Office Supplies,635,47,0,2014-03-17,Office Supplies,103382
+2014-03-18Office Supplies,430,17,1,2014-03-18,Office Supplies,51699
+2014-03-18Technology,2582,-304,0,2014-03-18,Technology,51699
+2014-03-19Office Supplies,632,66,0,2014-03-19,Office Supplies,77561
+2014-03-19Furniture,242,14,0,2014-03-19,Furniture,25853
+2014-03-20Office Supplies,172,7,0,2014-03-20,Office Supplies,25856
+2014-03-21Office Supplies,288,6,0,2014-03-21,Office Supplies,77576
+2014-03-21Furniture,2128,739,0,2014-03-21,Furniture,25858
+2014-03-22Office Supplies,105,33,0,2014-03-22,Office Supplies,25861
+2014-03-23Office Supplies,240,22,0,2014-03-23,Office Supplies,25862
+2014-03-24Office Supplies,576,-247,2,2014-03-24,Office Supplies,51727
+2014-03-25Office Supplies,1479,206,0,2014-03-25,Office Supplies,51731
+2014-03-26Office Supplies,261,-4,0,2014-03-26,Office Supplies,51735
+2014-03-27Office Supplies,98,31,0,2014-03-27,Office Supplies,51741
+2014-03-28Technology,817,297,0,2014-03-28,Technology,51747
+2014-03-28Office Supplies,1250,168,0,2014-03-28,Office Supplies,51747
+2014-03-29Office Supplies,227,-154,1,2014-03-29,Office Supplies,25877
+2014-03-31Office Supplies,581,93,0,2014-03-31,Office Supplies,51757
+2014-04-01Office Supplies,40,-14,1,2014-04-01,Office Supplies,51761
+2014-04-02Office Supplies,537,51,1,2014-04-02,Office Supplies,51765
+2014-04-03Technology,1599,37,0,2014-04-03,Technology,77657
+2014-04-03Office Supplies,252,19,1,2014-04-03,Office Supplies,51773
+2014-04-04Office Supplies,540,99,1,2014-04-04,Office Supplies,25889
+2014-04-06Office Supplies,512,96,0,2014-04-06,Office Supplies,51785
+2014-04-07Office Supplies,2362,841,0,2014-04-07,Office Supplies,77687
+2014-04-07Technology,523,192,0,2014-04-07,Technology,51793
+2014-04-08Office Supplies,371,124,0,2014-04-08,Office Supplies,25899
+2014-04-09Office Supplies,1461,32,0,2014-04-09,Office Supplies,51801
+2014-04-10Office Supplies,223,72,0,2014-04-10,Office Supplies,103614
+2014-04-11Office Supplies,39,3,0,2014-04-11,Office Supplies,25906
+2014-04-13Furniture,156,21,0,2014-04-13,Furniture,51819
+2014-04-13Office Supplies,558,117,0,2014-04-13,Office Supplies,25911
+2014-04-14Technology,59,6,0,2014-04-14,Technology,51826
+2014-04-14Office Supplies,1028,221,0,2014-04-14,Office Supplies,51829
+2014-04-14Furniture,1579,614,0,2014-04-14,Furniture,25915
+2014-04-15Office Supplies,1139,-64,4,2014-04-15,Office Supplies,77754
+2014-04-16Office Supplies,212,63,0,2014-04-16,Office Supplies,77764
+2014-04-16Furniture,996,120,0,2014-04-16,Furniture,25922
+2014-04-17Office Supplies,436,88,1,2014-04-17,Office Supplies,129630
+2014-04-18Office Supplies,128,4,0,2014-04-18,Office Supplies,25929
+2014-04-19Office Supplies,318,111,1,2014-04-19,Office Supplies,103727
+2014-04-19Furniture,756,-3,1,2014-04-19,Furniture,25933
+2014-04-21Technology,1323,370,0,2014-04-21,Technology,25936
+2014-04-21Furniture,1146,447,0,2014-04-21,Furniture,25937
+2014-04-21Office Supplies,900,45,0,2014-04-21,Office Supplies,77817
+2014-04-23Office Supplies,22,11,0,2014-04-23,Office Supplies,25941
+2014-04-24Technology,2305,922,0,2014-04-24,Technology,51885
+2014-04-24Office Supplies,686,177,0,2014-04-24,Office Supplies,25944
+2014-04-25Office Supplies,940,-371,3,2014-04-25,Office Supplies,51895
+2014-04-26Office Supplies,505,74,0,2014-04-26,Office Supplies,129755
+2014-04-28Technology,46,0,1,2014-04-28,Technology,25954
+2014-04-28Furniture,2222,966,0,2014-04-28,Furniture,25955
+2014-04-30Office Supplies,1467,73,5,2014-04-30,Office Supplies,129795
+2014-05-01Furniture,445,65,0,2014-05-01,Furniture,51927
+2014-05-02Office Supplies,882,1,1,2014-05-02,Office Supplies,155812
+2014-05-02Technology,100,-48,1,2014-05-02,Technology,25966
+2014-05-03Office Supplies,2048,341,0,2014-05-03,Office Supplies,77922
+2014-05-03Technology,133,-42,1,2014-05-03,Technology,25976
+2014-05-05Office Supplies,99,17,0,2014-05-05,Office Supplies,25977
+2014-05-07Office Supplies,1373,243,0,2014-05-07,Office Supplies,51961
+2014-05-08Office Supplies,771,182,0,2014-05-08,Office Supplies,103936
+2014-05-08Technology,4027,1208,0,2014-05-08,Technology,25985
+2014-05-09Office Supplies,635,-47,4,2014-05-09,Office Supplies,181937
+2014-05-10Office Supplies,403,-22,1,2014-05-10,Office Supplies,51995
+2014-05-12Office Supplies,114,49,0,2014-05-12,Office Supplies,51999
+2014-05-13Office Supplies,74,-29,2,2014-05-13,Office Supplies,26001
+2014-05-15Furniture,933,-768,2,2014-05-15,Furniture,26003
+2014-05-15Office Supplies,194,-13,2,2014-05-15,Office Supplies,26004
+2014-05-16Office Supplies,2366,552,0,2014-05-16,Office Supplies,52011
+2014-05-19Office Supplies,1790,284,0,2014-05-19,Office Supplies,52015
+2014-05-20Technology,868,129,0,2014-05-20,Technology,26009
+2014-05-20Office Supplies,136,25,0,2014-05-20,Office Supplies,26010
+2014-05-21Office Supplies,348,21,1,2014-05-21,Office Supplies,26011
+2014-05-21Furniture,173,69,0,2014-05-21,Furniture,26013
+2014-05-22Office Supplies,1048,195,0,2014-05-22,Office Supplies,52029
+2014-05-23Office Supplies,378,99,0,2014-05-23,Office Supplies,26017
+2014-05-24Office Supplies,1886,650,0,2014-05-24,Office Supplies,52038
+2014-05-24Technology,736,346,0,2014-05-24,Technology,26019
+2014-05-26Office Supplies,314,115,0,2014-05-26,Office Supplies,78066
+2014-05-27Office Supplies,171,44,0,2014-05-27,Office Supplies,52049
+2014-05-28Office Supplies,222,34,0,2014-05-28,Office Supplies,26026
+2014-05-28Technology,40,18,0,2014-05-28,Technology,26027
+2014-05-29Office Supplies,567,26,2,2014-05-29,Office Supplies,78087
+2014-05-29Technology,882,109,0,2014-05-29,Technology,26031
+2014-05-29Furniture,1773,187,0,2014-05-29,Furniture,26032
+2014-05-30Office Supplies,1870,407,0,2014-05-30,Office Supplies,52067
+2014-06-02Office Supplies,366,62,2,2014-06-02,Office Supplies,52077
+2014-06-03Furniture,489,66,0,2014-06-03,Furniture,52081
+2014-06-03Office Supplies,2961,1057,0,2014-06-03,Office Supplies,130220
+2014-06-04Office Supplies,1394,322,0,2014-06-04,Office Supplies,78149
+2014-06-04Technology,1171,570,0,2014-06-04,Technology,78152
+2014-06-04Furniture,4957,394,0,2014-06-04,Furniture,26049
+2014-06-05Office Supplies,354,123,0,2014-06-05,Office Supplies,78166
+2014-06-05Technology,1329,254,0,2014-06-05,Technology,26056
+2014-06-06Furniture,1683,-56,0,2014-06-06,Furniture,26059
+2014-06-07Office Supplies,232,22,0,2014-06-07,Office Supplies,26060
+2014-06-08Office Supplies,45,17,0,2014-06-08,Office Supplies,26061
+2014-06-09Office Supplies,2383,521,0,2014-06-09,Office Supplies,208525
+2014-06-09Technology,2931,130,0,2014-06-09,Technology,26069
+2014-06-10Furniture,770,-246,1,2014-06-10,Furniture,26071
+2014-06-10Office Supplies,517,-22,1,2014-06-10,Office Supplies,130370
+2014-06-11Office Supplies,1369,170,0,2014-06-11,Office Supplies,182573
+2014-06-11Technology,2024,609,0,2014-06-11,Technology,52157
+2014-06-11Furniture,1047,180,0,2014-06-11,Furniture,26085
+2014-06-12Office Supplies,159,43,0,2014-06-12,Office Supplies,78265
+2014-06-12Furniture,205,31,0,2014-06-12,Furniture,26089
+2014-06-13Office Supplies,156,-27,2,2014-06-13,Office Supplies,78276
+2014-06-13Technology,170,73,0,2014-06-13,Technology,26094
+2014-06-14Office Supplies,221,19,0,2014-06-14,Office Supplies,26095
+2014-06-16Office Supplies,378,-95,2,2014-06-16,Office Supplies,78299
+2014-06-16Furniture,381,5,1,2014-06-16,Furniture,52202
+2014-06-16Technology,427,-50,0,2014-06-16,Technology,26102
+2014-06-17Office Supplies,884,279,0,2014-06-17,Office Supplies,52209
+2014-06-17Technology,1860,18,0,2014-06-17,Technology,52213
+2014-06-18Furniture,303,-2,0,2014-06-18,Furniture,78332
+2014-06-18Office Supplies,3122,485,1,2014-06-18,Office Supplies,104447
+2014-06-18Technology,848,-37,1,2014-06-18,Technology,26113
+2014-06-19Office Supplies,42,7,0,2014-06-19,Office Supplies,78351
+2014-06-20Office Supplies,102,10,1,2014-06-20,Office Supplies,52239
+2014-06-20Technology,588,-69,1,2014-06-20,Technology,26121
+2014-06-21Office Supplies,222,71,0,2014-06-21,Office Supplies,26123
+2014-06-22Office Supplies,437,44,0,2014-06-22,Office Supplies,26124
+2014-06-23Office Supplies,272,-31,3,2014-06-23,Office Supplies,130636
+2014-06-23Furniture,857,-42,0,2014-06-23,Furniture,26129
+2014-06-24Furniture,899,62,0,2014-06-24,Furniture,52263
+2014-06-24Office Supplies,1037,158,1,2014-06-24,Office Supplies,156813
+2014-06-24Technology,5825,1189,0,2014-06-24,Technology,26139
+2014-06-25Furniture,2290,-272,0,2014-06-25,Furniture,26140
+2014-06-25Office Supplies,957,-234,4,2014-06-25,Office Supplies,130715
+2014-06-26Office Supplies,2230,539,0,2014-06-26,Office Supplies,209208
+2014-06-26Technology,4898,703,1,2014-06-26,Technology,52297
+2014-06-27Technology,319,102,0,2014-06-27,Technology,78474
+2014-06-27Office Supplies,1212,248,0,2014-06-27,Office Supplies,104639
+2014-06-30Office Supplies,1234,165,0,2014-06-30,Office Supplies,78494
+2014-07-01Office Supplies,610,187,1,2014-07-01,Office Supplies,78509
+2014-07-01Technology,830,-419,0,2014-07-01,Technology,26169
+2014-07-02Office Supplies,223,62,0,2014-07-02,Office Supplies,26172
+2014-07-03Office Supplies,434,26,0,2014-07-03,Office Supplies,52347
+2014-07-04Office Supplies,394,-8,1,2014-07-04,Office Supplies,78528
+2014-07-05Office Supplies,582,203,0,2014-07-05,Office Supplies,52358
+2014-07-05Furniture,144,30,0,2014-07-05,Furniture,26179
+2014-07-07Office Supplies,245,42,1,2014-07-07,Office Supplies,104732
+2014-07-07Technology,42,15,0,2014-07-07,Technology,26183
+2014-07-08Office Supplies,39,16,0,2014-07-08,Office Supplies,26186
+2014-07-10Office Supplies,297,-21,4,2014-07-10,Office Supplies,104758
+2014-07-11Office Supplies,1161,132,0,2014-07-11,Office Supplies,52385
+2014-07-13Office Supplies,22,-8,1,2014-07-13,Office Supplies,26194
+2014-07-14Office Supplies,343,13,3,2014-07-14,Office Supplies,78588
+2014-07-14Furniture,366,84,0,2014-07-14,Furniture,26198
+2014-07-16Office Supplies,2006,263,1,2014-07-16,Office Supplies,157215
+2014-07-16Technology,854,163,1,2014-07-16,Technology,26206
+2014-07-19Office Supplies,832,0,0,2014-07-19,Office Supplies,26210
+2014-07-21Office Supplies,62,8,0,2014-07-21,Office Supplies,26211
+2014-07-22Technology,1101,319,0,2014-07-22,Technology,26212
+2014-07-24Office Supplies,1368,150,0,2014-07-24,Office Supplies,78648
+2014-07-26Furniture,2215,114,0,2014-07-26,Furniture,26219
+2014-07-28Office Supplies,821,271,0,2014-07-28,Office Supplies,104891
+2014-07-28Furniture,1058,-58,0,2014-07-28,Furniture,26224
+2014-07-30Office Supplies,1257,263,0,2014-07-30,Office Supplies,157377
+2014-07-30Technology,3558,213,0,2014-07-30,Technology,26233
+2014-07-31Office Supplies,556,100,0,2014-07-31,Office Supplies,104948
+2014-07-31Furniture,219,40,0,2014-07-31,Furniture,52472
+2014-07-31Technology,666,92,0,2014-07-31,Technology,26239
+2014-08-01Office Supplies,168,11,1,2014-08-01,Office Supplies,78726
+2014-08-02Office Supplies,1940,636,0,2014-08-02,Office Supplies,183737
+2014-08-02Technology,7499,1170,0,2014-08-02,Technology,52498
+2014-08-02Furniture,3128,581,0,2014-08-02,Furniture,26250
+2014-08-03Office Supplies,161,51,0,2014-08-03,Office Supplies,26255
+2014-08-04Technology,296,-158,0,2014-08-04,Technology,52513
+2014-08-04Office Supplies,925,357,0,2014-08-04,Office Supplies,210092
+2014-08-05Technology,68,-56,1,2014-08-05,Technology,26266
+2014-08-05Office Supplies,813,125,1,2014-08-05,Office Supplies,52535
+2014-08-06Furniture,1806,-830,0,2014-08-06,Furniture,52540
+2014-08-06Technology,5339,1358,0,2014-08-06,Technology,26270
+2014-08-06Office Supplies,1778,276,0,2014-08-06,Office Supplies,183925
+2014-08-07Furniture,2188,585,1,2014-08-07,Furniture,105128
+2014-08-07Office Supplies,3347,734,2,2014-08-07,Office Supplies,131421
+2014-08-07Technology,1788,-64,0,2014-08-07,Technology,26286
+2014-08-08Office Supplies,1754,-46,3,2014-08-08,Office Supplies,184047
+2014-08-08Technology,3019,616,0,2014-08-08,Technology,26293
+2014-08-09Office Supplies,576,172,0,2014-08-09,Office Supplies,52597
+2014-08-11Office Supplies,3197,354,7,2014-08-11,Office Supplies,157815
+2014-08-11Technology,3247,406,2,2014-08-11,Technology,26306
+2014-08-11Furniture,1436,340,2,2014-08-11,Furniture,26307
+2014-08-12Office Supplies,3181,901,0,2014-08-12,Office Supplies,105242
+2014-08-12Technology,1039,45,0,2014-08-12,Technology,78936
+2014-08-12Furniture,275,84,0,2014-08-12,Furniture,26314
+2014-08-13Office Supplies,1806,209,3,2014-08-13,Office Supplies,131594
+2014-08-13Furniture,1337,328,0,2014-08-13,Furniture,52639
+2014-08-14Office Supplies,1019,149,1,2014-08-14,Office Supplies,131625
+2014-08-15Office Supplies,632,-371,3,2014-08-15,Office Supplies,131665
+2014-08-16Office Supplies,1073,159,2,2014-08-16,Office Supplies,79013
+2014-08-16Furniture,289,23,0,2014-08-16,Furniture,52677
+2014-08-18Technology,1391,305,2,2014-08-18,Technology,79031
+2014-08-18Office Supplies,2596,-171,2,2014-08-18,Office Supplies,131731
+2014-08-18Furniture,653,149,0,2014-08-18,Furniture,26343
+2014-08-19Office Supplies,2183,268,1,2014-08-19,Office Supplies,131765
+2014-08-19Furniture,1008,227,0,2014-08-19,Furniture,26351
+2014-08-19Technology,1731,-143,0,2014-08-19,Technology,26355
+2014-08-20Office Supplies,1438,-585,4,2014-08-20,Office Supplies,131807
+2014-08-20Furniture,833,46,1,2014-08-20,Furniture,79077
+2014-08-21Furniture,1670,-223,2,2014-08-21,Furniture,79101
+2014-08-21Office Supplies,337,55,0,2014-08-21,Office Supplies,79110
+2014-08-22Office Supplies,448,133,0,2014-08-22,Office Supplies,184625
+2014-08-22Technology,2122,-374,0,2014-08-22,Technology,26379
+2014-08-23Office Supplies,417,54,1,2014-08-23,Office Supplies,105531
+2014-08-23Technology,805,262,1,2014-08-23,Technology,52764
+2014-08-25Office Supplies,2128,365,1,2014-08-25,Office Supplies,158341
+2014-08-25Furniture,831,146,0,2014-08-25,Furniture,52775
+2014-08-26Furniture,296,22,1,2014-08-26,Furniture,52796
+2014-08-26Office Supplies,587,103,2,2014-08-26,Office Supplies,184786
+2014-08-27Furniture,155,56,0,2014-08-27,Furniture,26403
+2014-08-27Office Supplies,1562,20,1,2014-08-27,Office Supplies,105625
+2014-08-27Technology,620,82,0,2014-08-27,Technology,79224
+2014-08-28Office Supplies,972,175,1,2014-08-28,Office Supplies,105652
+2014-08-28Technology,914,145,0,2014-08-28,Technology,132083
+2014-08-29Office Supplies,1524,372,2,2014-08-29,Office Supplies,264259
+2014-08-29Technology,7243,1023,1,2014-08-29,Technology,52847
+2014-08-30Office Supplies,366,102,0,2014-08-30,Office Supplies,26432
+2014-08-31Office Supplies,51,14,0,2014-08-31,Office Supplies,26434
+2014-09-01Technology,1375,216,1,2014-09-01,Technology,52872
+2014-09-01Office Supplies,701,-2,6,2014-09-01,Office Supplies,105753
+2014-09-01Furniture,79,-2,0,2014-09-01,Furniture,26441
+2014-09-02Furniture,3570,397,0,2014-09-02,Furniture,105785
+2014-09-02Office Supplies,1801,141,0,2014-09-02,Office Supplies,52890
+2014-09-02Technology,1398,42,0,2014-09-02,Technology,52889
+2014-09-03Office Supplies,821,188,1,2014-09-03,Office Supplies,132265
+2014-09-03Technology,694,232,0,2014-09-03,Technology,52906
+2014-09-04Office Supplies,1768,211,0,2014-09-04,Office Supplies,158767
+2014-09-04Furniture,5216,937,0,2014-09-04,Furniture,79385
+2014-09-04Technology,1004,103,0,2014-09-04,Technology,26463
+2014-09-05Office Supplies,1772,239,1,2014-09-05,Office Supplies,105875
+2014-09-05Technology,327,-39,1,2014-09-05,Technology,26470
+2014-09-06Office Supplies,1643,479,0,2014-09-06,Office Supplies,105896
+2014-09-06Furniture,2918,539,2,2014-09-06,Furniture,26474
+2014-09-08Office Supplies,559,166,0,2014-09-08,Office Supplies,52956
+2014-09-08Technology,1514,742,0,2014-09-08,Technology,26478
+2014-09-09Technology,953,177,0,2014-09-09,Technology,52965
+2014-09-09Furniture,109,40,0,2014-09-09,Furniture,26481
+2014-09-09Office Supplies,618,13,1,2014-09-09,Office Supplies,79449
+2014-09-10Furniture,55,-33,1,2014-09-10,Furniture,26486
+2014-09-10Office Supplies,465,30,0,2014-09-10,Office Supplies,158937
+2014-09-11Office Supplies,1861,179,1,2014-09-11,Office Supplies,132475
+2014-09-11Technology,1449,431,0,2014-09-11,Technology,52997
+2014-09-11Furniture,2341,-321,0,2014-09-11,Furniture,53001
+2014-09-12Office Supplies,458,91,1,2014-09-12,Office Supplies,106018
+2014-09-12Furniture,1948,216,1,2014-09-12,Furniture,53009
+2014-09-13Office Supplies,521,-186,0,2014-09-13,Office Supplies,53017
+2014-09-15Office Supplies,1220,206,1,2014-09-15,Office Supplies,159075
+2014-09-16Furniture,382,-160,1,2014-09-16,Furniture,53033
+2014-09-16Office Supplies,2599,688,9,2014-09-16,Office Supplies,238702
+2014-09-16Technology,5422,418,1,2014-09-16,Technology,53051
+2014-09-17Office Supplies,416,86,0,2014-09-17,Office Supplies,132657
+2014-09-17Furniture,3348,372,0,2014-09-17,Furniture,26532
+2014-09-18Office Supplies,1057,221,2,2014-09-18,Office Supplies,106147
+2014-09-18Technology,173,74,0,2014-09-18,Technology,53078
+2014-09-19Office Supplies,975,252,0,2014-09-19,Office Supplies,132728
+2014-09-19Technology,3014,-147,1,2014-09-19,Technology,26545
+2014-09-20Office Supplies,710,94,0,2014-09-20,Office Supplies,53100
+2014-09-20Furniture,1809,653,0,2014-09-20,Furniture,26550
+2014-09-21Office Supplies,67,20,0,2014-09-21,Office Supplies,26552
+2014-09-22Office Supplies,1395,259,0,2014-09-22,Office Supplies,53108
+2014-09-23Technology,945,115,0,2014-09-23,Technology,53115
+2014-09-23Office Supplies,883,186,1,2014-09-23,Office Supplies,106238
+2014-09-23Furniture,1875,574,1,2014-09-23,Furniture,26560
+2014-09-24Office Supplies,1355,-60,0,2014-09-24,Office Supplies,26563
+2014-09-25Office Supplies,2527,803,0,2014-09-25,Office Supplies,159409
+2014-09-26Office Supplies,1037,-284,5,2014-09-26,Office Supplies,132874
+2014-09-26Furniture,1214,199,0,2014-09-26,Furniture,26573
+2014-09-26Technology,844,264,1,2014-09-26,Technology,53157
+2014-09-27Technology,584,-444,1,2014-09-27,Technology,26580
+2014-09-27Office Supplies,883,-396,5,2014-09-27,Office Supplies,53163
+2014-09-28Office Supplies,1091,171,0,2014-09-28,Office Supplies,26583
+2014-09-29Office Supplies,412,123,0,2014-09-29,Office Supplies,53170
+2014-09-29Technology,2970,269,0,2014-09-29,Technology,79760
+2014-09-30Furniture,602,-5,0,2014-09-30,Furniture,53181
+2014-09-30Technology,1478,-656,0,2014-09-30,Technology,79775
+2014-09-30Office Supplies,551,230,0,2014-09-30,Office Supplies,26593
+2014-10-01Furniture,83,-48,1,2014-10-01,Furniture,26596
+2014-10-02Office Supplies,540,136,0,2014-10-02,Office Supplies,53197
+2014-10-03Office Supplies,2162,511,0,2014-10-03,Office Supplies,53201
+2014-10-06Office Supplies,244,67,1,2014-10-06,Office Supplies,53210
+2014-10-06Technology,614,84,0,2014-10-06,Technology,26605
+2014-10-07Office Supplies,92,-5,2,2014-10-07,Office Supplies,53215
+2014-10-07Technology,1278,428,0,2014-10-07,Technology,26609
+2014-10-08Technology,108,-13,1,2014-10-08,Technology,26610
+2014-10-08Office Supplies,10,-8,1,2014-10-08,Office Supplies,26611
+2014-10-10Office Supplies,120,15,2,2014-10-10,Office Supplies,79842
+2014-10-13Office Supplies,3159,570,0,2014-10-13,Office Supplies,159722
+2014-10-13Furniture,1249,20,0,2014-10-13,Furniture,26620
+2014-10-13Technology,5334,795,0,2014-10-13,Technology,53247
+2014-10-14Technology,401,27,0,2014-10-14,Technology,53254
+2014-10-14Office Supplies,1560,408,0,2014-10-14,Office Supplies,26627
+2014-10-15Office Supplies,1274,499,0,2014-10-15,Office Supplies,26630
+2014-10-16Office Supplies,161,58,0,2014-10-16,Office Supplies,53263
+2014-10-17Technology,2196,-639,0,2014-10-17,Technology,26633
+2014-10-17Office Supplies,43,14,0,2014-10-17,Office Supplies,53269
+2014-10-20Office Supplies,891,183,0,2014-10-20,Office Supplies,106555
+2014-10-20Technology,675,202,0,2014-10-20,Technology,26640
+2014-10-20Furniture,846,9,0,2014-10-20,Furniture,26642
+2014-10-21Office Supplies,546,60,0,2014-10-21,Office Supplies,26643
+2014-10-22Office Supplies,141,41,0,2014-10-22,Office Supplies,26645
+2014-10-23Office Supplies,235,15,1,2014-10-23,Office Supplies,106592
+2014-10-23Technology,1363,198,0,2014-10-23,Technology,26648
+2014-10-24Office Supplies,1259,295,0,2014-10-24,Office Supplies,79958
+2014-10-24Furniture,174,9,0,2014-10-24,Furniture,26652
+2014-10-24Technology,1271,250,0,2014-10-24,Technology,53311
+2014-10-27Furniture,877,395,0,2014-10-27,Furniture,26657
+2014-10-27Office Supplies,216,37,0,2014-10-27,Office Supplies,26658
+2014-10-28Office Supplies,73,14,0,2014-10-28,Office Supplies,26659
+2014-10-29Technology,1016,-24,0,2014-10-29,Technology,53321
+2014-10-29Office Supplies,177,25,0,2014-10-29,Office Supplies,26662
+2014-10-30Office Supplies,951,341,0,2014-10-30,Office Supplies,133325
+2014-10-31Office Supplies,170,44,0,2014-10-31,Office Supplies,53339
+2014-11-01Technology,59,8,0,2014-11-01,Technology,26671
+2014-11-01Office Supplies,17,3,0,2014-11-01,Office Supplies,26672
+2014-11-03Office Supplies,95,-27,1,2014-11-03,Office Supplies,106702
+2014-11-04Office Supplies,113,8,1,2014-11-04,Office Supplies,106718
+2014-11-05Office Supplies,500,86,0,2014-11-05,Office Supplies,80053
+2014-11-05Technology,202,83,0,2014-11-05,Technology,53367
+2014-11-06Office Supplies,1159,344,0,2014-11-06,Office Supplies,106756
+2014-11-06Furniture,1089,-86,0,2014-11-06,Furniture,26689
+2014-11-07Technology,487,149,0,2014-11-07,Technology,80087
+2014-11-07Furniture,684,136,0,2014-11-07,Furniture,80086
+2014-11-07Office Supplies,2580,635,0,2014-11-07,Office Supplies,106792
+2014-11-08Office Supplies,789,163,0,2014-11-08,Office Supplies,106814
+2014-11-10Office Supplies,1521,464,0,2014-11-10,Office Supplies,133553
+2014-11-10Furniture,504,116,0,2014-11-10,Furniture,53415
+2014-11-10Technology,490,85,0,2014-11-10,Technology,80137
+2014-11-11Office Supplies,242,66,2,2014-11-11,Office Supplies,106872
+2014-11-11Furniture,112,15,0,2014-11-11,Furniture,26718
+2014-11-12Office Supplies,4121,567,3,2014-11-12,Office Supplies,106895
+2014-11-12Technology,3721,1148,1,2014-11-12,Technology,80175
+2014-11-12Furniture,3671,1209,0,2014-11-12,Furniture,26726
+2014-11-13Furniture,555,9,1,2014-11-13,Furniture,26729
+2014-11-13Office Supplies,261,-26,6,2014-11-13,Office Supplies,106926
+2014-11-14Office Supplies,437,26,0,2014-11-14,Office Supplies,26735
+2014-11-15Office Supplies,1098,147,0,2014-11-15,Office Supplies,80216
+2014-11-15Furniture,1299,88,0,2014-11-15,Furniture,53479
+2014-11-16Office Supplies,42,8,0,2014-11-16,Office Supplies,26742
+2014-11-17Office Supplies,3116,61,5,2014-11-17,Office Supplies,160485
+2014-11-17Technology,3443,-169,0,2014-11-17,Technology,80240
+2014-11-17Furniture,970,221,0,2014-11-17,Furniture,26750
+2014-11-18Office Supplies,1614,30,0,2014-11-18,Office Supplies,133783
+2014-11-18Technology,1697,-445,2,2014-11-18,Technology,53513
+2014-11-18Furniture,1319,362,1,2014-11-18,Furniture,26756
+2014-11-19Technology,495,-90,1,2014-11-19,Technology,26761
+2014-11-19Office Supplies,537,48,1,2014-11-19,Office Supplies,80289
+2014-11-19Furniture,5729,64,0,2014-11-19,Furniture,53531
+2014-11-20Office Supplies,1090,298,0,2014-11-20,Office Supplies,107080
+2014-11-20Technology,2878,434,0,2014-11-20,Technology,80310
+2014-11-21Technology,1192,-288,3,2014-11-21,Technology,26774
+2014-11-21Office Supplies,1055,97,2,2014-11-21,Office Supplies,107106
+2014-11-22Technology,2457,665,0,2014-11-22,Technology,26779
+2014-11-23Technology,1253,281,0,2014-11-23,Technology,26780
+2014-11-24Furniture,1441,518,0,2014-11-24,Furniture,26781
+2014-11-24Office Supplies,1832,103,1,2014-11-24,Office Supplies,133920
+2014-11-25Technology,1730,128,1,2014-11-25,Technology,80370
+2014-11-25Office Supplies,1662,363,3,2014-11-25,Office Supplies,107163
+2014-11-25Furniture,271,47,1,2014-11-25,Furniture,26791
+2014-11-26Office Supplies,4129,140,0,2014-11-26,Office Supplies,133985
+2014-11-27Technology,2361,256,2,2014-11-27,Technology,53605
+2014-11-27Office Supplies,2016,101,3,2014-11-27,Office Supplies,134016
+2014-11-28Furniture,3632,2,0,2014-11-28,Furniture,26808
+2014-11-28Office Supplies,1635,87,2,2014-11-28,Office Supplies,53619
+2014-11-29Technology,391,90,0,2014-11-29,Technology,26811
+2014-11-29Office Supplies,1088,179,0,2014-11-29,Office Supplies,53625
+2014-12-01Office Supplies,538,153,1,2014-12-01,Office Supplies,80448
+2014-12-02Office Supplies,928,131,1,2014-12-02,Office Supplies,80457
+2014-12-02Technology,766,-46,1,2014-12-02,Technology,26821
+2014-12-02Furniture,45,-15,1,2014-12-02,Furniture,53645
+2014-12-03Office Supplies,232,66,0,2014-12-03,Office Supplies,26826
+2014-12-04Office Supplies,572,-30,3,2014-12-04,Office Supplies,80484
+2014-12-04Technology,1055,264,0,2014-12-04,Technology,107326
+2014-12-05Furniture,70,-14,0,2014-12-05,Furniture,26836
+2014-12-05Office Supplies,3344,222,1,2014-12-05,Office Supplies,107354
+2014-12-06Office Supplies,551,62,1,2014-12-06,Office Supplies,53685
+2014-12-07Furniture,2188,1050,0,2014-12-07,Furniture,26844
+2014-12-08Office Supplies,1792,176,2,2014-12-08,Office Supplies,134235
+2014-12-09Office Supplies,1259,-223,5,2014-12-09,Office Supplies,107407
+2014-12-09Technology,1246,171,2,2014-12-09,Technology,26853
+2014-12-09Furniture,1675,-314,4,2014-12-09,Furniture,26855
+2014-12-10Office Supplies,248,47,1,2014-12-10,Office Supplies,80573
+2014-12-10Technology,545,110,0,2014-12-10,Technology,26860
+2014-12-11Furniture,284,45,0,2014-12-11,Furniture,53723
+2014-12-12Office Supplies,663,204,0,2014-12-12,Office Supplies,161197
+2014-12-12Furniture,553,-80,1,2014-12-12,Furniture,26865
+2014-12-12Technology,106,34,0,2014-12-12,Technology,26870
+2014-12-13Office Supplies,569,141,0,2014-12-13,Office Supplies,80617
+2014-12-13Technology,1945,370,0,2014-12-13,Technology,26873
+2014-12-14Furniture,494,54,0,2014-12-14,Furniture,26875
+2014-12-15Office Supplies,1732,45,4,2014-12-15,Office Supplies,107511
+2014-12-15Technology,1387,547,0,2014-12-15,Technology,26879
+2014-12-15Furniture,789,192,0,2014-12-15,Furniture,26881
+2014-12-16Furniture,122,-21,0,2014-12-16,Furniture,53770
+2014-12-16Office Supplies,1028,170,2,2014-12-16,Office Supplies,134427
+2014-12-16Technology,572,113,0,2014-12-16,Technology,26887
+2014-12-17Office Supplies,216,34,1,2014-12-17,Office Supplies,80677
+2014-12-18Office Supplies,1222,-210,0,2014-12-18,Office Supplies,134488
+2014-12-18Furniture,1657,460,0,2014-12-18,Furniture,26897
+2014-12-19Office Supplies,2183,572,0,2014-12-19,Office Supplies,188331
+2014-12-19Furniture,778,-36,0,2014-12-19,Furniture,80724
+2014-12-22Office Supplies,26,10,0,2014-12-22,Office Supplies,53827
+2014-12-23Office Supplies,352,55,4,2014-12-23,Office Supplies,26917
+2014-12-24Technology,1142,-4,2,2014-12-24,Technology,26918
+2014-12-24Office Supplies,420,38,2,2014-12-24,Office Supplies,134613
+2014-12-24Furniture,3901,1234,0,2014-12-24,Furniture,53841
+2014-12-25Office Supplies,2819,200,2,2014-12-25,Office Supplies,134652
+2014-12-25Technology,870,237,1,2014-12-25,Technology,134658
+2014-12-25Furniture,380,-99,2,2014-12-25,Furniture,26931
+2014-12-26Furniture,1886,2,2,2014-12-26,Furniture,53883
+2014-12-26Office Supplies,537,-23,3,2014-12-26,Office Supplies,134714
+2014-12-26Technology,4799,718,3,2014-12-26,Technology,134713
+2014-12-27Office Supplies,2837,-505,3,2014-12-27,Office Supplies,53899
+2014-12-27Technology,342,-103,1,2014-12-27,Technology,53903
+2014-12-29Office Supplies,3955,723,4,2014-12-29,Office Supplies,134784
+2014-12-29Furniture,2567,-117,1,2014-12-29,Furniture,53917
+2014-12-29Technology,1663,-82,1,2014-12-29,Technology,26959
+2014-12-30Technology,2205,934,0,2014-12-30,Technology,26962
+2014-12-30Furniture,153,40,0,2014-12-30,Furniture,26963
+2014-12-30Office Supplies,334,-9,1,2014-12-30,Office Supplies,107862
+2014-12-31Office Supplies,1192,297,2,2014-12-31,Office Supplies,134850
+2014-12-31Technology,975,232,1,2014-12-31,Technology,26973
